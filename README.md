@@ -3,6 +3,12 @@ ProppModel
 
 ProppModel source: 
 
-http://www.feb-web.ru/feb/skazki/default.asp?/feb/skazki/texts/af0/af0.html
+http://www.feb-web.ru/feb/skazki/default.asp?/feb/skazki/texts/af0/af0.html + Google translate
 
-+ Google translate
+Another: https://github.com/kingfish777/central_corpora/tree/master/AFAN/Afan_Eng
+
+
+DIRTY AFAN: 
+
+https://github.com/kingfish777/central_corpora/tree/master/AFAN
+
