@@ -8,7 +8,7 @@ http://www.feb-web.ru/feb/skazki/default.asp?/feb/skazki/texts/af0/af0.html + Go
 Another: https://github.com/kingfish777/central_corpora/tree/master/AFAN/Afan_Eng
 
 
-DIRTY AFAN: 
+Clean AFAN: 
 
 https://github.com/kingfish777/central_corpora/tree/master/AFAN
 
