@@ -1,4 +1,11 @@
- THERE was once a stepmother who had a stepdaughter and a daughter of her own. 
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ A_9 B_5 D1_1 E1_1 F1_1 return MOVE
+   a_6 B_5 C depart D1_1 E1_1 F1 return !>
+<Folktale>
+
+
+There was once a stepmother who had a stepdaughter and a daughter of her own. 
  At anything her own daughter did, the woman would pat her head and say: 
  "Clever girl!" But no matter how hard the stepdaughter tried, she was always found in the wrong. 
  Yet the truth of the matter was that the stepdaughter was as good as gold; 
@@ -87,4 +94,6 @@
  "The gate flew open and the old woman ran out to greet her daughter, 
  but instead she embraced a cold corpse. She began to wail and howl, but it was too late.
 
+
+</Folktale>
  
