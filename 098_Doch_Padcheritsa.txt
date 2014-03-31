@@ -1,3 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Folktale>
+<Filler>
  A widowed peasant with a daughter married a widow who also had a daughter; 
  
  thus they each had a stepchild. 
@@ -79,7 +82,8 @@
  But the old man lived happily with his daughter all his life and took into his house a wealthy son-in-law. 
  
  
- 
+</Filler>
+</Folktale>
  
  
 
