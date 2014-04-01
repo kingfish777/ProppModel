@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Folktale>
+<Move>
 <Filler>
  A widowed peasant with a daughter married a widow who also had a daughter; 
  
@@ -83,6 +84,7 @@
  
  
 </Filler>
+</Move>
 </Folktale>
  
  
