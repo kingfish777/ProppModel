@@ -1,4 +1,9 @@
- IN A certain kingdom, in a certain land, there lived a king and a queen, and they had an only daughter, Princess 
+<?xml version="1.0" encoding="UTF-8"?>
+<Folktale>
+ <Move>
+ <Filler>
+
+ In A certain kingdom, in a certain land, there lived a king and a queen, and they had an only daughter, Princess 
  Maria. When the queen died, the king took another wife, Yagishna. Yagishna gave birth to two daughters: one had 
  two eyes, and the other three eyes. The stepmother disliked Princess Maria, and ordered her to take Burenushka, 
  the little red cow, to pasture, and gave her a crust of dry bread for her dinner. The princess went to the open 
@@ -72,6 +77,8 @@ put a dish on
  will I live." Yagishna's daughter at once climbed to the top of the gate, but Princess Maria only clutched it 
  and did not climb up. Then Prince Ivan took his gun and shot the false wife, and began to live with Princess 
  Maria as of old, and they prospered. 
- 
- 
+ <Filler> 
+
+ <Move>
+ <Folktale>
 
