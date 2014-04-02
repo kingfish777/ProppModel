@@ -1,3 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Folktale>
+<Move>
+<Filler>
 
 In a certain village there lived a poor peasant with his wife, who for three years had no children: at length the 
 good woman had a little son, whom they named Ivan. The boy grew, but even when he was five years old, could not 
@@ -152,3 +156,7 @@ When Ivan the peasant’s son awoke, the Emperor took him by his white hands, le
 for the services he had rendered; and being himself far advanced in years, he placed the crown upon Ivan’s head. 
 Then Ivan mounted the throne, and ruled happily, and lived with his wife for many years in the greatest harmony 
 and love.
+
+</Filler>
+</Move>
+</Folktale>
