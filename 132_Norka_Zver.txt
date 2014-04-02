@@ -1,3 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Folktale>
+<Move>
+<Filler>
 Once upon a time there lived a king and queen. They had three sons, two of them with their wits about them, but 
 the third a simpleton. Now the King had a deer-park in which were quantities of wild animals of different kinds. 
 Into that park there used to come a huge beast—Norka was its name—and do fearful mischief, devouring some of the 
@@ -24,7 +28,8 @@ moment the Prince closed his eyes, up jumped the Beast and took to flight. The P
 jumped in a moment, and set off again in pursuit, caught up the Beast, and again began fighting with it. Again 
 the Prince gave the Beast three wounds, and then he and the Beast lay down again to rest. Thereupon away fled the 
 Beast as before. The Prince caught it up, and again gave it three wounds. But all of a sudden, just as the Prince 
-began chasing it for the fourth time, the Beast fled to a great white stone, tilted it up, and escaped into the other world,[86] crying out to the Prince: “Then only will you overcome me, when you enter here.”
+began chasing it for the fourth time, the Beast fled to a great white stone, tilted it up, and escaped into the other 
+world,[86] crying out to the Prince: “Then only will you overcome me, when you enter here.”
 
 The Prince went home, told his father all that had happened, and asked him to have a leather rope plaited, long 
 enough to reach to the other world. His father ordered this to be done. When the rope was made, the Prince called 
@@ -52,7 +57,9 @@ entered the courtyard, tied up his horse, and went indoors. In one of the rooms 
 down and dined, and then went into a bedroom. There he found a bed, on which he lay down to rest. Presently there 
 came in a lady, more beautiful than can be imagined anywhere but in a skazka, who said:
 
-“Thou who art in my house, name thyself! If thou art an old man, thou shall be my father; if a middle-aged man, my brother; but if a young man, thou shalt be my husband dear. And if thou art a woman, and an old one, thou shalt be my grandmother; if middle-aged, my mother; and if a girl, thou shalt be my own sister.”
+“Thou who art in my house, name thyself! If thou art an old man, thou shall be my father; if a middle-aged man, my 
+brother; but if a young man, thou shalt be my husband dear. And if thou art a woman, and an old one, thou shalt be my 
+grandmother; if middle-aged, my mother; and if a girl, thou shalt be my own sister.”
 
 Thereupon he came forth. And when she saw him, she was delighted with him, and said:
 
@@ -82,7 +89,8 @@ eggs into palaces, and back again, and they handed over the eggs to him. And the
 which they had to be hoisted into the upper world. And when they came to where the rope was, the Prince took hold 
 of it and made the maidens fast to it.[88] Then he jerked away at the rope, and his brothers began to haul it up. 
 And when they had hauled it up, and had set eyes on the wondrous maidens, they went aside and said: “Let’s lower 
-the rope, pull our brother part of the way up, and then cut the rope. Perhaps he’ll be killed; but then if he isn’t, he’ll never give us these beauties as wives.”
+the rope, pull our brother part of the way up, and then cut the rope. Perhaps he’ll be killed; but then if he isn’t, 
+he’ll never give us these beauties as wives.”
 
 So when they had agreed on this, they lowered the rope. But their brother was no fool; he guessed what they were 
 at, so he fastened the rope to a stone, and then gave it a pull. His brothers hoisted the stone to a great height
@@ -156,3 +164,7 @@ to slay us if we did.”
 
 Then the King was wroth with those sons, and punished them as he thought best. And afterwards three weddings were 
 celebrated.
+
+</Filler>
+</Move>
+</Folktale>
