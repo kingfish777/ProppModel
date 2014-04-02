@@ -1,3 +1,9 @@
+ 
+ <?xml version="1.0" encoding="UTF-8"?>
+
+<Folktale>
+<Move>
+ <Filler>
  Once upon A time there lived an old man and his wife. 
  When the old man became a widower, 
  he married another wife, 
@@ -153,6 +159,6 @@
  
  it ran down my mustache, but it never got into my mouth. 
  
-
- 
-
+ </Filler>
+</Move>
+</Folktale>
