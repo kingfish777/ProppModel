@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+ A_1 C depart K_4 MOVE
+   A_1 C depart F1_9 K_4 return Pr_1 Rs_1 MOVE
+   A_14 B_4 C depart K_9 return Pr_1 Rs_1 MOVE
+   a_2 depart F1_1 D2 E2 F2_9 o L Pr_1 Rs_2 
+-->
 <Folktale>
 <Move>
 <Filler>
