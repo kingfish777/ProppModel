@@ -1,4 +1,8 @@
- In some kingdom, in some state there lived-was the tsar; at this tsar was three daughters and one son, Ivan-tsarevitch. The tsar has grown old and has died, and the crown was accepted by Ivan-tsarevitch.
+<?xml version="1.0" encoding="UTF-8"?>
+<Folktale>
+<Move>
+<Filler>
+In some kingdom, in some state there lived-was the tsar; at this tsar was three daughters and one son, Ivan-tsarevitch. The tsar has grown old and has died, and the crown was accepted by Ivan-tsarevitch.
       As the next kings have learnt about that, have now collected incalculable armies and have gone on it войною. Ivan-tsarevitch does not know, how to it to be; comes to sisters and asks:
       - Kind my sisters! What to me to do? All kings have risen on me войною.
       - Ah you, the brave soldier! Of that was frightened? How White Полянин is at war with the woman-jagoju - gold ногою, thirty years from a horse does not climb down, роздыху does not know? And you, nothing seeing, were frightened!
@@ -92,3 +96,6 @@
       Villages on the powerful horse, has said goodbye with White Полянином and it невестою and has jumped at the other end of the world.
       Whether long, whether shortly, whether low, whether highly - soon the fairy tale affects, yes has not soon put becomes - it has arrived to a kingdom snake, has killed the tsar-dragon, has released the fine princess from bondage and married it; after that it was turned back home and began with young женою to live-live yes is kind to acquire. 	
 	
+</Filler>
+</Move>
+</Folktale>
