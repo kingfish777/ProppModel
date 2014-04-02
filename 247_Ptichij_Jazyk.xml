@@ -1,4 +1,9 @@
-SOMEWHERE in a town in holy Russia, there lived a rich merchant with his wife. He had an only son, a dear, bright, 
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Folktale>
+<Move>
+ <Filler>
+Somewhere in a town in holy Russia, there lived a rich merchant with his wife. He had an only son, a dear, bright, 
 and brave boy called Ivan. One lovely day Ivan sat at the dinner table with his parents. Near the window in the 
 same room hung a cage, and a nightingale, a sweet-voiced, gray bird, was imprisoned within. The sweet nightingale 
 began to sing its wonderful song with trills and high silvery tones. The merchant listened and listened to the 
@@ -122,3 +127,6 @@ Ivan Korolevitch laughed gayly.
 
 "I presume," he answered, "that it was not my fate to perish at the bottom of the wide sea, but my fate was to 
 marry the korolevna, my beautiful wife, and to sweeten the old age of my dear father."
+</Filler>
+</Move>
+</Folktale>
