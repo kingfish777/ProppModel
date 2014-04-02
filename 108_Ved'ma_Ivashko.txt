@@ -1,3 +1,8 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Folktale>
+<Move>
+<Filler>
 There once lived an old couple who had one son called Ivashko;[207] no one can tell how fond they were of him!
 
 Well, one day, Ivashko said to his father and mother:
@@ -141,6 +146,9 @@ you, father! there’s for me! There’s for you, father! there’s for me.”
 
 “Why, old man,” said the wife, “go and see whatever that is up there.”
 
-The father climbed into the upper room and there he found [Pg 176] Ivashko. The old people were delighted, and asked their boy about everything that had happened. And after that he and they lived on happily together.
+The father climbed into the upper room and there he found [Pg 176] Ivashko. The old people were delighted, and
+asked their boy about everything that had happened. And after that he and they lived on happily together.
 
-
+</Filler>
+</Move>
+<Folktale>
