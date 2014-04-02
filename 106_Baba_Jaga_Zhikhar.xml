@@ -1,4 +1,10 @@
- ONCE UPON A time there lived a cat, a sparrow, and a brave youth. The cat and the sparrow went to the forest to 
+ 
+ <?xml version="1.0" encoding="UTF-8"?>
+
+<Folktale>
+<Move>
+<Filler>
+ Once upon a time there lived a cat, a sparrow, and a brave youth. The cat and the sparrow went to the forest to 
  chop wood and said to the brave youth: "You keep the house, but mind you: if Baba Yaga comes and counts the 
  spoons, do not say a word, keep quiet!" "Very well," said the brave youth. The cat and the sparrow went away, 
  and the brave youth sat on the stove behind the chimney. Suddenly Baba Yaga came in, took the spoons, and began  to count them: "This is the cat's spoon, this is the sparrow's spoon, and this is 
@@ -56,3 +62,6 @@
  "Show me." Baba Yaga at once curled up and lay on the pan. The brave youth quickly shoved her into the oven, ran 
  home, and said to his brothers: "That's what I did with Baba Yaga!" 
 
+</Filler>
+</Move>
+</Folktale>
