@@ -1,3 +1,8 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+
+<Folktale>
+<Move>
+ <Filler>
 A long time ago there lived a merchant and his wife; they had one child, a girl called Vasilisa. One day the 
 mother placed a little doll in the child's hands, she said, "My child, I am dying. Take this doll as my blessing. 
 Always keep it with you and never show it to anybody. If anything bad happens to you, give the doll food and ask 
@@ -159,3 +164,6 @@ Vasilisa and the Tsar were captivated by each other and eventually they married.
 
 When Vasilisa's father returned, they invited both him and the old woman to come and live at the palace. Also at 
 the palace was the little doll, for Vasilisa carried it around in her pocket until the day she died.
+ </Filler>
+</Move>
+</Folktale>
