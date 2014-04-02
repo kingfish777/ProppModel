@@ -1,3 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Folktale>
+<Move>
+<Filler>
  Once there was a king who had an only son. When the prince was small, 
  his nurses and governesses sang lullabies to him. "Prince Ivan, when 
  you grow up, you will find your bride," they would sing. "Beyond 
@@ -68,3 +72,7 @@
  gave him a glass of vodka. Bulat did not take the glass, but seized
  the maiden by her right hand, drew her out of the tower, and seated 
  her on Prince Ivan's horse, and the good youths gall
+
+</Filler>
+</Move>
+</Folktale>
