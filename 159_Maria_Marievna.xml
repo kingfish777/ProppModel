@@ -7,6 +7,37 @@
 -->
 <Folktale>
 <Move>
+<Preparation></Preparation>
+<Villainy></Villainy>
+<ConnectiveIncident></ConnectiveIncident>
+<Departure></Departure>
+<DonorFunctions></DonorFunctions>
+<LiquidationOfLack></LiquidationOfLack>
+</Move>
+<Move>
+ <Villainy></Villainy>
+ <ConnectiveIncident></ConnectiveIncident>
+ <Departure></Departure>
+ <DonorFunctions></DonorFunctions>
+ <LiquidationOfLack></LiquidationOfLack>
+ <PursuitRescue></PursuitRescue>
+</Move>
+<Move>
+ <Villainy></Villainy>
+ <ConnectiveIncident></ConnectiveIncident>
+ <Departure></Departure>
+ <DonorFunctions></DonorFunctions>
+ <LiquidationOfLack></LiquidationOfLack>
+ <PursuitRescue></PursuitRescue>
+</Move>
+<Move>
+ <Villainy></Villainy>
+<ConnectiveIncident></ConnectiveIncident>
+<Departure></Departure>
+<DonorFunctions></DonorFunctions>
+ 
+ <PursuitRescue></PursuitRescue>
+</Move>
 <Filler>
 In a certain kingdom in a certain land lived Prince Ivan. He had three sisters-Princess Maria, Princess Olga, 
  and Princess Anna. Their father and mother died; their parting injunction to their son was: "Whoever woos a s
