@@ -1,4 +1,8 @@
- IN A certain kingdom in a certain land lived Prince Ivan. He had three sisters-Princess Maria, Princess Olga, 
+<?xml version="1.0" encoding="UTF-8"?>
+<Folktale>
+<Move>
+<Filler>
+In a certain kingdom in a certain land lived Prince Ivan. He had three sisters-Princess Maria, Princess Olga, 
  and Princess Anna. Their father and mother died; their parting injunction to their son was: "Whoever woos a s
  ister of yours, give her to him; do not keep them long with you." The prince buried his parents and in his  
  sorrow went to walk with his sisters in the green garden. Suddenly a black cloud covered the sky and a terrible 
@@ -189,3 +193,6 @@
  began to live and prosper and drink mead. 
  
  
+</Filler>
+</Move>
+</Folktale>
