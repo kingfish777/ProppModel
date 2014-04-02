@@ -6,11 +6,18 @@
     -->
 <Folktale>
 <Move>
-<Filler>
-
+<Preparation>
+   
 Once upon a time, very long ago, there was a little Prince Ivan who was dumb. 
 Never a word had he spoken from the day that he was born--not so much as a 
-"Yes" or a "No," or a "Please" or a "Thank you." A great sorrow he was to his 
+"Yes" or a "No," or a "Please" or a "Thank you." 
+   
+</Preparation>
+<Villainy>
+   
+   
+
+A great sorrow he was to his 
 father because he could not speak. Indeed, neither his father nor his mother 
 could bear the sight of him, for they thought, "A poor sort of Tzar will a 
 dumb boy make!" They even prayed, and said, "If only we could have another 
@@ -26,6 +33,7 @@ Anyway, he knew more than other folk, and there came a day when he said to Princ
 "Little Prince," says he, "to-day you have a sister, and a bad one at that. 
 She has come because of your father's prayers and your mother's wishes. 
 A witch she is, and she will grow like a seed of corn. 
+
 In six weeks she'll be a grown witch, and with her iron teeth 
 she will eat up your father, and eat up your mother, and eat up you too, 
 if she gets the chance. There's no saving the old people; but if you are quick, 
@@ -33,11 +41,13 @@ and do what I tell you, you may escape, and keep your soul in your body.
 And I love you, my little dumb Prince, and do not wish to think of your little 
 body between her iron teeth. You must go to your father and ask him for the best 
 horse he has, and then gallop like the wind, and away to the end of the world."
-
+</Villainy>
+<ConnectiveIncident>
 The little Prince ran off and found his father. There was his father, and there 
 was his mother, and a little baby girl was in his mother's
 arms, screaming like a little fury.
-
+</ConnectiveIncident>
+<Filler>
 "Well, she's not dumb," said his father, as if he were well pleased.
 
 "Father," says the little Prince, "may I have the fastest horse in the stable?" 
