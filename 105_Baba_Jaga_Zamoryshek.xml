@@ -1,3 +1,9 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+
+<Folktale>
+<Move>
+ <Filler>
+
 Once upon a time there lived an old man and his old 
 wife, and they had no children, and what on earth did 
 they not do to get them ! How did not they beseech 
@@ -164,3 +170,6 @@ the doughty youths crossed the sea safely. Then
 Zamoryshek shook the handkerchief on the left-hand 
 side and the bridge vanished. The Baba Yaga had to 
 turn back, but the brothers went home safely. 
+ </Filler>
+</Move>
+</Folktale>
