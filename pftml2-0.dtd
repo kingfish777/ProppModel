@@ -85,7 +85,7 @@
 	Return?,
 	Filler?, 
 	Epilogue?,
-	Filler?,)>
+	Filler?)>
 <!ELEMENT Preparation (#PCDATA)>
 <!ELEMENT CardinalFunction (#PCDATA)>
 <!ELEMENT ConnectiveIncident (#PCDATA)>
