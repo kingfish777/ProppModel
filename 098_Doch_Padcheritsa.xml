@@ -1,20 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Folktale>
+<!-Propp says: 
+ I:  A9 B5 D1 E1 f1 Return Departure
+ II: a6 D1 Departure B2_5 E-F = Return
+-->
 <Move>
-<Filler>
+<Preparation>
  A widowed peasant with a daughter married a widow who also had a daughter; 
  
  thus they each had a stepchild. 
- 
+</Preparation>
+<Villainy>
  The stepmother was envious and nagged the old man constantly, saying: 
  
  "Take your daughter to the woods, to a mud hut; there she will spin more." 
  
- What could the peasant do? He did as his wife told him, took his daughter to a mud hut, 
+ What could the peasant do? 
+ 
+ He did as his wife told him, took his daughter to a mud hut, 
  gave her a steel and flint and a bag of grits, and said: 
  
  "Here is fire for you, do not let it die out; cook your kasha, sit and spin, and keep the hut locked." 
- 
+ </Villainy>
+ <DonorFunctions>
  Night came. 
  
  The girl heated the stove and cooked her kasha; 
@@ -36,39 +44,60 @@
  he began to roar and hurl logs of wood; 
  he hurled and hurled them but did not hit his mark.
  He got tired and said: "Ah, little girl, you're an expert player of blindman's buff. 
+ </DonorFunctions>
+ <Filler>
  
  To reward you I shall send you a drove of horses and a cartful of goods tomorrow morning." 
  Next morning the old man's wife said: 
  "Go, old man, visit your daughter, see how much she has spun since yesterday." 
+ </Filler>
+ <Return>
+ 
  The old man went and his wife sat and waited for him to bring back his daughter's bones. 
  Suddenly the dog began to bark: 
- "Bow-wow-wow, the daughter is coming, with her father driving a drove of horses and bringing a cartful of goods." 
- "You're lying, dog! Those are her bones rattling and clattering in my husband's basket." 
+ "Bow-wow-wow, the daughter is coming, 
+ with her father driving a drove of horses and bringing a cartful of goods." 
  
+ "You're lying, dog! Those are her bones rattling and clattering in my husband's basket." 
+  </Return>
+ </Move>
+ 
+ <Move>
+ <Lack>
  The gate creaked, the horses ran into the yard, 
  and the stepmother beheld the father and daughter sitting on a cart laden with goods. 
- The woman's eyes gleamed with greed. 
- 
+
+
+  The woman's eyes gleamed with greed. 
  "That's not very much," she cried. "Now take my daughter to the woods for the night. 
  
  She will come home driving two droves of horses and bringing two cartfuls of goods." 
- 
+ </Lack>
+ <DonorFunctions>
  The peasant took his wife's daughter to the mud hut and provided her also with food and fire. 
  At nightfall she cooked gruel. 
  
  The mouse came and asked her for some kasha. 
+ 
  But she cried: "Oh, you vermin!" And she hurled a spoon at him. 
+ 
  The mouse ran away, Natasha gobbled up all the kasha by herself, 
  and, having eaten, put out the light and lay down in a corner. 
  At midnight the bear broke into the mud hut and said: 
+ 
  "Hey, where are you, little girl? Let's play blindman's buff." 
+ 
  The maiden did not answer, but her teeth rattled from fear. 
+ 
  "Ah, so there you are! Here's a little bell. Run, I will try to catch you." 
  She took the little bell, her hand trembled, the bell rang incessantly, and the mouse said: 
  "That wicked maiden will meet her death." 
+ </DonorFunctions>
+ <Return>
  Next morning the wife sent the old man to the woods, saying: 
  "Go now! My daughter will bring back two cartfuls of goods and drive two droves of horses." 
  The peasant went and his wife sat at the gate. 
+ 
  The dog barked: 
  "Bow-wow-wow, the wife's daughter is coming, her bones are rattling in the basket, 
  and the old man sits on an empty cart." 
@@ -79,15 +108,10 @@
  
  He handed his wife a basket; she opened the basket, saw the bones, began to howl, 
  and grew so angry that from grief and spite she died the next day. 
- 
- But the old man lived happily with his daughter all his life and took into his house a wealthy son-in-law. 
- 
- 
-</Filler>
+ </Return>
+ <Wedding>
+ But the old man lived happily with his daughter all his life 
+ and took into his house a wealthy son-in-law. 
+ </Wedding>
 </Move>
 </Folktale>
- 
- 
-
- 
- 
