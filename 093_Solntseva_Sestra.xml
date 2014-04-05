@@ -160,7 +160,7 @@ The sky was full of flying mountains.
 </Move>
 
 <Move>
-<Filler>
+<Preparation>
 Little Prince Ivan wept bitterly, for he was very little and was all alone. He rode on further over the wide 
 world, the black horse
 
@@ -181,7 +181,7 @@ into her arms, and laughed because he was so happy.
 Merry and pretty was the Sun's little sister, and she was very kind to little Prince Ivan. They played games 
 together, and when she was tired she let him do whatever he liked and run about her castle. This way and that he 
 ran about the battlements of rosy cloud, hanging in the sky over the end of the world.
-</Filler>
+</Preparation>
 <Villainy>
 But one day he climbed up and up to the topmost turret of the castle. From there he could see the whole world. 
 And far, far away, beyond the mountains, beyond the forests, beyond the wide plains, 
@@ -189,14 +189,14 @@ he saw his father's palace where he had been born. The roof of the palace was go
 and the walls were broken and crumbling. And little Prince Ivan came slowly down 
 from the turret, and his eyes were red with weeping.
 </Villainy>
-<Filler>
+<ConnectiveIncident>
 "My dear," says the Sun's little sister, "why are your eyes so red?"
 
 "It is the wind up there," says little Prince Ivan.
 
 And the Sun's little sister put her head out of the window of the castle of cloud and whispered to the winds not 
 to blow so hard.
-</Filler>
+</ConnectiveIncident>
 <Villainy>
 But next day little Prince Ivan went up again to that topmost turret, 
 and looked far away over the wide world to the ruined palace. 
