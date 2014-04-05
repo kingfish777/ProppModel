@@ -56,7 +56,7 @@
 	Filler?, 
 	ClaimsOfFalseHero?,
 	Filler?, 
-	Task?,
+	TaskSolution?,
 	Filler?,
 	Wedding?,
 	Filler?, 
@@ -99,7 +99,7 @@
 <!ELEMENT PursuitRescueOfHero (#PCDATA)>
 <!ELEMENT UnrecognizedArrival (#PCDATA)>
 <!ELEMENT ClaimsOfFalseHero (#PCDATA)>
-<!ELEMENT Task (#PCDATA)>
+<!ELEMENT TaskSolution (#PCDATA)>
 <!ELEMENT RecognitionOfHero (#PCDATA)>
 <!ELEMENT ExposureOfFalseHero (#PCDATA)>
 <!ELEMENT Transfiguration (#PCDATA)>
