@@ -216,7 +216,7 @@ and looked far away over the wide world to the ruined palace.
 "She has eaten them all with her iron teeth," he said to himself. And his eyes were red when 
 he came down.
 </Villainy>
-<Filler>
+<ConnectiveIncident>
 "My dear," says the Sun's little sister, "your eyes are red again."
 
 "It is the wind," says little Prince Ivan.
@@ -234,7 +234,8 @@ where his father and mother had lived. And he came down from the turret with the
 So little Prince Ivan told the little sister of the Sun how his sister was a witch, and how he wept to think of 
 his father and mother, and how he had seen the ruins of his father's palace far away, and how he could not stay 
 with hen happily until he knew how it was with his parents.
-
+</ConnectiveIncident>
+<ConsentToCounteraction>
 "Perhaps it is not yet too late to save them from her iron teeth, though the old groom said that she would 
 certainly eat them, and that it was the will of God. But let me ride back on my big black horse."
 
@@ -242,7 +243,7 @@ certainly eat them, and that it was the will of God. But let me ride back on my 
 
 
 "I will ride back on my big black horse, and then I will come to you again."
-</Filler>
+</ConsentToCounteraction>
 <DonorFunctions>
 "What must be, must," says the Sun's little sister; 
 "though she is more likely to eat you than you are to save them. 
