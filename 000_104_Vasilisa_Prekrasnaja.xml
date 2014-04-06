@@ -24,11 +24,14 @@ The Merchant soon became lonely and decided to marry again.
 
 He married a widow he thought would be a good mother but both she 
 and her two daughters were envious of Vasilisa's beauty. 
+</Preparation>
 
-They gave her heavy outdoor work to do, so she would grow thin and her face turn ugly in the wind and the sun.
+<Villainy>
+They gave her heavy outdoor work to do, 
+so she would grow thin and her face turn ugly in the wind and the sun.
+</Villainy>
 
-
-
+<ConnectiveIncident>
 Despite this, Vasilisa became more beautiful every day. 
 
 For each day she gave her doll food and asked for advice. 
@@ -37,20 +40,21 @@ Having finished eating, the doll would help with the tasks and even bring Vasili
 
 
 As the years passed, Vasilisa grew ever more beautiful as her stepmother's hatred of her intensified.
+</ConnectiveIncident>
 
+<Departure>
 Then, whilst Vasilisa's father was away on business, 
 the stepmother moved the family to the edge of a dense birch forest. 
 
 This was not just any birch forest, for in this forest lived the terrifying witch, Baba-Yaga. 
 
 A witch who ate people like others ate chicken.
-</Preparation>
-<Villainy>
+
 Every day, the stepmother sent Vasilisa into the forest, but the girl always returned safe and sound with the 
 guidance of her magic doll.
-</Villainy>
+</Departure>
 
-
+<DonorFunctions>
 Then one night, the stepmother crept around the house and extinguished all the candles. 
 
 As the last candle failed, she said in a loud voice.
@@ -58,6 +62,7 @@ As the last candle failed, she said in a loud voice.
 "It's impossible to finish our work in the darkness. 
 
 Somebody must go to Baba-Yaga and ask for a light."
+
 "I'm not going," said the first stepdaughter, who was stitching lace. 
 
 "I can see my needle."
@@ -90,6 +95,7 @@ As he passed the sun began to rise.
 Vasilisa had never seen such strange men and she was very surprised.
 
 She walked all day, until at last she came to Baba-Yaga's hut, 
+
 which stood forbidding on its large chicken legs. 
 
 A fence made of human bones surrounded the hut. 
@@ -127,7 +133,6 @@ Vasilisa stepped forward, trembling with fear.
 
 She said, "I am, Vasilisa. My stepmother sent me to you to ask for a light."
 
-
 "I know of her." 
 
 Baba-Yaga replied. 
@@ -135,7 +140,6 @@ Baba-Yaga replied.
 "Stay with me for a while. If you work well, I will give you light. 
 
 If you do not, I will cook you and eat you."
-
 
 Baba-Yaga commanded the gates to open and rode in. 
 
@@ -157,8 +161,7 @@ She left Vasilisa nothing but a crust of bread.
 
 "Then," she added, 
 
-"You must go to the corn bin 
-and separate seed by seed the mildewed corn from the good corn, 
+"You must go to the corn bin and separate seed by seed the mildewed corn from the good corn, 
 and mind that you remove all the black bits. 
 
 If you don't complete these tasks I will eat you."
@@ -333,12 +336,14 @@ He said loudly,
 
 So Vasilisa went to the palace.
 
+</DonorFunctions>
+<Wedding>
 Vasilisa and the Tsar were captivated by each other and eventually they married.
 
 
 When Vasilisa's father returned, they invited both him and the old woman to come and live at the palace. 
 
 Also at the palace was the little doll, for Vasilisa carried it around in her pocket until the day she died.
- </Filler>
+</Wedding>
 </Move>
 </Folktale>
