@@ -1,10 +1,9 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <Folktale>
 <Move>
-<Filler>
-In an empire, in a country beyond many seas and islands, beyond high mountains, beyond large rivers, upon a 
-level expanse, as if spread upon a table, there stood a large town, and in that town there lived a Tsar 
+<Preparation>
+In an empire, in a country beyond many seas and islands, beyond high mountains, beyond large rivers, 
+upon a level expanse, as if spread upon a table, there stood a large town, and in that town there lived a Tsar 
 called Archidei, the son of Aggei; therefore he was called Aggeivitch.
 
 A famous Tsar he was, and a clever one. His wealth could not be counted; his warriors were innumerable. There 
@@ -15,11 +14,13 @@ For his council twelve wise men were selected, each one of them having a beard h
 of wisdom. These advisers offered nothing but truth to their father sovereign; none ever dared advance a lie.
 How could such a Tsar be anything but happy? But it is true, indeed, that neither wealth nor wisdom give 
 happiness when the heart is not at ease, and even in golden palaces the poor heart often aches.
-
+</Preparation>
+<Lack>
 So it was with the Tsar Archidei; he was rich and clever, besides being a handsome fellow; but he could not find 
 a bride to his taste, a bride with wit and beauty equal to his own. And this was the cause of the Tsar 
 Archidei's sorrow and distress.
-
+</Lack>
+<ConnectiveIncident>
 One day he was sitting in his golden armchair looking out of the window lost in thought. He had gazed for quite a 
 while before he noticed foreign sailors landing opposite the imperial palace. The sailors ran their ship up to 
 the wharf, reefed their white sails, threw the heavy anchor into the sea and prepared the plank ready to go 
@@ -27,6 +28,7 @@ ashore. Before them all walked an old merchant; white was his beard and he had a
 An idea suddenly occurred to the Tsar: "Sea merchants generally are well informed on
 many subjects. If I ask them, perchance I shall find that they have met somewhere a princess, beautiful and 
 clever, suitable for me, the Tsar Archidei."
+
 
 Without delay the order was given to call the sea merchants into the halls of the palace.
 
@@ -37,13 +39,13 @@ the strong green wine and wiped their beards with embroidered towels. Then the T
 "We are aware that you gallant sea merchants cross all the big waters and see many wonderful things. My desire is 
 to ask you about something, and you must give a straightforward answer without any deceit or evasion."
 
-"So be it, mighty Tsar Archidei Aggei-vitch," answered the merchant guests, bowing.
+"So be it, mighty Tsar Archidei Aggeivitch," answered the merchant guests, bowing.
 
 "Well, then, can you tell me if somewhere in an empire or kingdom, or among
-
 great princes, there is a maiden as beautiful and wise as I myself, Tsar Archidei; an illustrious maiden who 
 would be a proper wife for me, a suitable Tsaritza for my country?"
-
+</ConnectiveIncident>
+<Filler>
 The merchant guests seemed to be puzzled, and after a long silence the eldest among them thus replied:
 
 "Indeed, I once heard that yonder beyond the great sea, on an island called Buzan, there is a great country; and 
@@ -105,15 +107,15 @@ The seven brave peasants answered cheerfully:
 
 "And what kind of people are you?"
 
-"We are the Tsar Archidei Aggeivitch's peasants, farmers, and we are
-
-
-"Hunters, grooms, and servants rushed in all directions"
-
-brothers, sons of one father and mother. The name for all of us is Simeon, so you understand we are seven Simeons."
+"We are the Tsar Archidei Aggeivitch's peasants, farmers, 
+and we are Hunters, grooms, and servants rushed in all directions
+brothers, sons of one father and mother. 
+The name for all of us is Simeon, so you understand we are seven Simeons."
 
 This answer was faithfully delivered to the Tsar Archidei by the envoys, and the Tsar at once desired to see the 
-brave peasants, and ordered them to be called before him. The seven Simeons presently appeared and bowed. The 
+brave peasants, and ordered them to be called before him. 
+
+The seven Simeons presently appeared and bowed. The 
 Tsar looked at them with his bright eyes and asked them:
 
 "What kind of people are you whose field is so well cultivated?"
@@ -121,11 +123,14 @@ Tsar looked at them with his bright eyes and asked them:
 One of the seven brothers, the eldest of them, answered:
 
 "We are all thy peasants, simpletons, without any wisdom, born of peasant parents, all of us children of the same 
-father and the same mother, and all having the same name, Simeon. Our old father taught us to pray to God, to 
-obey thee, to pay taxes faithfully, and besides to work and toil without rest. He also taught to each of us a 
-trade, for the old saying is, 'A trade is no burden, but a profit.' The old father wished us to keep our trades 
-for a cloudy day, but
-never to forsake our own fields, and always to be contented, and plow and harrow diligently.
+father and the same mother, and all having the same name, Simeon. 
+
+Our old father taught us to pray to God, to obey thee, to pay taxes faithfully, 
+and besides to work and toil without rest. He also taught to each of us a 
+trade, for the old saying is, 'A trade is no burden, but a profit.' 
+
+The old father wished us to keep our trades for a cloudy day, 
+ but never to forsake our own fields, and always to be contented, and plow and harrow diligently.
 
 "He also used to say, 'If one does not neglect the mother earth, but thoroughly harrows and sows in due season, 
 then she, our mother, will reward generously, and will give plenty of bread, besides preparing a soft place for 
@@ -133,33 +138,47 @@ the everlasting rest when one is old and tired of life.'"
 
 The Tsar Archidei liked the simple answer of the peasant, and said:
 
-"Take my praise, brave good fellows, my peasants, tillers of the soil, sowers of wheat, gatherers of gold. And 
-now tell me, what trades did your father teach you, and what do you know?"
+"Take my praise, brave good fellows, my peasants, tillers of the soil, sowers of wheat, gatherers of gold. 
+
+And now tell me, what trades did your father teach you, and what do you know?"
 
 The first Simeon answered:
 
-"My trade is not a very wise one. If thou wouldst let me have materials and working men, then I could build a 
-post, a white stone column, reaching beyond the clouds, almost to the sky."
+"My trade is not a very wise one. 
 
-"Good enough!" exclaimed the Tsar Archidei. "And thou, the second Simeon, what is thy trade?"
+If thou wouldst let me have materials and working men, 
+then I could build a post, a white stone column, reaching beyond the clouds, almost to the sky."
+
+"Good enough!" exclaimed the Tsar Archidei. 
+
+"And thou, the second Simeon, what is thy trade?"
 
 
 The second Simeon was quick to give answer:
 
-"My trade is a simple one. If my brother will build a white stone column, I can climb upon that column high up in 
-the sky, and I shall see from above all the empires and all the kingdoms under the sun, and everything which is 
-going on in those foreign countries."
+"My trade is a simple one. 
 
-"Thy trade is not so bad either," and the Tsar smiled and looked at the third brother. "And thou, third Simeon, 
-what trade is thine?"
+If my brother will build a white stone column, 
+
+I can climb upon that column high up in the sky, 
+
+and I shall see from above all the empires and all the kingdoms under the sun, 
+and everything which is going on in those foreign countries."
+
+"Thy trade is not so bad either," and the Tsar smiled and looked at the third brother. 
+"And thou, third Simeon, what trade is thine?"
 
 The third Simeon also had his answer ready:
 
 "My trade is simple, too; that is to say, a peasant's trade. If thou art in need of ships, thy learned men of 
-foreign birth build them for thee as well as their wisdom teaches them. But if thou wilt order, I will build them 
-simply—one, two! and the ship is ready. My ships will be the result of the quick headwork of a peasant simpleton. 
-But where a foreign ship sails a year, mine will sail an hour, and where others take ten years, mine will take 
-not longer than a week."
+foreign birth build them for thee as well as their wisdom teaches them. 
+
+But if thou wilt order, I will build them simply—one, two! And the ship is ready. 
+
+My ships will be the result of the quick headwork of a peasant simpleton. 
+
+But where a foreign ship sails a year, mine will sail an hour, 
+and where others take ten years, mine will take not longer than a week."
 
 
 "Well, well!" laughed the Tsar. "And thy trade, the fourth Simeon?" he asked.
