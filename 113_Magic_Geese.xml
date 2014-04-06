@@ -1,25 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Folktale>
 <Move>
-<Filler>
+<Preparation>
 Once upon a time a man and a woman lived with their daughter and small son.
 "Dearest daughter," said the mother, "we are going to work. Look after your brother! 
 Don't go out of the yard, be a good girl, and we'll buy you a handkerchief."
 The father and mother went off to work, and the daughter soon enough forgot what they had told her. 
 She put her little brother on the grass under a window and ran into the yard, 
 where she played and got completely carried away having fun.
-
+</Preparation>
+<Villainy>
 In swooped the swan-geese, snatched up the little boy, and flew away with him.
+
 When the girl came back inside, her brother was missing! "Oh no!" she cried. 
 She dashed here and there, but there was no sign of him. 
 She called for him, cried, and wailed how angry mother and father would be, 
 but her brother did not answer.
-
+</Villainy>
+<ConsentToCounteraction>
 Then she ran out to the edge of the fields, and just managed to catch sight 
 of the swan-geese rushing into the distance and disappearing into the forest. 
 
 She suspected that they were taking her brother off with them. 
 Swan-geese had long held a bad reputation for being naughty and carrying away little children.
+</ConsentToCounteraction>
+<DonorFunctions>
 The girl rushed to catch up with them. She ran and ran, until she saw an oven.
 "Little oven, little oven, tell me, where did the swan-geese fly to?"
 "Eat up some of my rye buns, and I will tell you."
@@ -34,13 +39,16 @@ until she came to a river of milk flowing in banks of pudding.
 "Eat up some of my humble pudding with milk, and I will tell you."
 "I'm not going to eat your simple pudding with milk! 
 I don't even eat the pudding we have at home."
-
+</DonorFunctions>
+<Transference>
 For a long time she ran through clearings and through forest. 
 The day drew toward evening, and there was nothing to do--she had to go home. 
 But when she turned around, she suddenly saw a little cabin with one little window.
 In the cabin was the old witch Baba Yaga, spinning flax. 
 And on a little bench sat her brother, playing with a silver apple.
 The girl ran into the cabin.
+</Transference>
+<TaskSolution>
 "Hello, old woman!"
 "Hello, maiden. Why have you burst into my house like this?"
 "I came through the forest and through the swamp, and my dress is torn to shreds. 
@@ -55,11 +63,16 @@ She is going to steam you, put you in the oven, roast you, eat you up,
 and then ride away on two of your bones."
 The girl sat in a state of shock, crying, but the mouse spoke to her again. 
 "Don't wait! Pick up your brother, run, and I will spin the flax in your place."
-The girl snatched up her brother and set out running. 
+</TaskSolution>
+
+<LiquidationOfLack>
+The girl snatched up her brother and set out running. </LiquidationOfLack>
+<TaskSolution>
 After she was gone, Baba Yaga went up to the window and asked, "Maiden, are you spinning?"
 "I'm spinning, old woman," answered the mouse.
 The old witch, satisfied, went back to the bath house. 
-
+</TaskSolution>
+<PursuitRescue>
 When she had gotten the fire hot enough, she went to get the girl. 
 But in the cabin there was nobody. 
 She cried, "Swan-geese! After them! 
@@ -82,11 +95,15 @@ The girl ran again. She ran and ran, until she was almost exhausted. The swan-ge
 The girl ran up to the oven:
 "Mother oven, hide me!"
 "Eat some of my rye buns."
+
 The girl quickly popped a bun into her mouth and settled herself and her brother into the oven.
 
 The swan-geese flew and flew, called and called, but finally they gave up and flew away, back to the old woman.
+</PursuitRescue>
+<Return>
 The girl thanked the oven and, together with her brother, ran all the way home.
 And just after they got there, their father and mother returned.
+</Return>
 </Filler>
 </Move>
 </Folktale>
