@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Folktale>
 <Move>
-<Filler>
+<Preparation>
  Once there was a king who had an only son. 
  
  When the prince was small, his nurses and governesses sang lullabies to him. 
  
  "Prince Ivan, when you grow up, you will find your bride," they would sing. 
- 
+ </Preparation>
+ <Lack>
  "Beyond thrice nine lands, in the thrice tenth kingdom, 
  Vasilisa Kirbitievna sits in a tower, and her marrow flows from bone to bone." 
- 
+ </Lack>
+ <Departure>
  When the prince had passed his fifteenth year, he began to ask the king's leave to set out in search of his bride. 
  
  "Whither will you go?"
@@ -22,9 +24,9 @@
  
  The father gave the prince his blessing and sent word to all the kingdoms that his son, Prince Ivan,
  was setting out to find his bride. 
+ </Departure>
  
- 
- 
+<DonorFunctions>
  One day the prince came to a certain town, put up his horse to 
  be cared for, and went to walk in the streets. He came to 
  the square and saw that a man was being flogged with a whip. 
@@ -43,9 +45,11 @@
  help you. Buy me a horse and a saddle at once." The prince bought
  him a horse and saddle and asked: "What is your name?" "My name is 
  Bulat the Brave," the man said. 
- They mounted their horses and set out. As soon as they 
+ They mounted their horses and set out. 
+ </DonorFunctions>
  
- arrived in the thrice tenth kingdom, Bulat said: 
+ <TaskSolution>
+ As soon as they arrived in the thrice tenth kingdom, Bulat said: 
  
  "Well, Prince Ivan, order chickens, ducks, and geese to be bought and roasted, 
  so that there will be plenty of everything. 
@@ -67,37 +71,41 @@
  
  Bulat took the plate, ran to the tower, and cried: 
  
- "Good day, Vasilisa Kirbitievna! Prince Ivan sends you his 
- greetings and has asked me to give you this chicken." The maiden 
- was frightened and sat in silence. But he answered himself in 
- her stead: "Good day, Bulat the Brave! Is Prince Ivan well? 
- Thank God, he is well. And why do you stand like that, Bulat the 
- Brave? Take the key, open the cupboard, drink a glass of vodka, 
- and God speed you. 
+"Good day, Vasilisa Kirbitievna! Prince Ivan sends you his 
+greetings and has asked me to give you this chicken." The maiden 
+was frightened and sat in silence. But he answered himself in 
+her stead: "Good day, Bulat the Brave! Is Prince Ivan well? 
+Thank God, he is well. And why do you stand like that, Bulat the 
+Brave? Take the key, open the cupboard, drink a glass of vodka, 
+and God speed you. 
  
- Then Bulat ran to Prince Ivan. 
+Then Bulat ran to Prince Ivan. 
  
- "Why are you sitting?" he said. 
- "Give me a duck." The prince cut off the right wing of a duck and 
- handed it to him on a plate. Bulat took the plate and carried it 
- to the tower. "Good day, Vasilisa Kirbitievna! Prince Ivan sends 
- you his greetings and has asked me to give you this duck." She
- sat in silence, and he answered himself in her stead: "Good day,
- Bulat the Brave! Is the prince well? Thank God, he is well. And 
- why do you stand like that, Bulat the Brave? Take the key, open
- the cupboard, drink a glass of vodka, and God speed you." Then 
- Bulat ran home and again said to Prince Ivan: "Why are you 
- sitting? Give me a goose." The prince cut off the right wing 
- of a goose and handed it to him on a plate. Bulat the Brave 
- took it to the tower. "Good day, Vasilisa Kirbitievna! Prince 
- Ivan sends his greetings and has asked me to give you this goose."
- 
- Vasilisa Kirbitievna straightway took a key, opened a cupboard, 
- and gave him a glass of vodka. 
- 
- Bulat did not take the glass, but seized the maiden by her right hand, drew her out of the tower,
- and seated her on Prince Ivan's horse, and the good youths gall.
+"Why are you sitting?" he said. 
+"Give me a duck." The prince cut off the right wing of a duck and 
+handed it to him on a plate. Bulat took the plate and carried it 
+to the tower. "Good day, Vasilisa Kirbitievna! Prince Ivan sends 
+you his greetings and has asked me to give you this duck." She
+sat in silence, and he answered himself in her stead: "Good day,
+Bulat the Brave! Is the prince well? Thank God, he is well. And 
+why do you stand like that, Bulat the Brave? Take the key, open
+the cupboard, drink a glass of vodka, and God speed you." Then 
+Bulat ran home and again said to Prince Ivan: "Why are you 
+sitting? Give me a goose." 
 
-</Filler>
+
+The prince cut off the right wing of a goose and handed it to him on a plate. 
+
+Bulat the Brave took it to the tower. 
+
+"Good day, Vasilisa Kirbitievna! Prince Ivan sends his greetings and has asked me to give you this goose."
+
+Vasilisa Kirbitievna straightway took a key, opened a cupboard, and gave him a glass of vodka. 
+
+</TaskSolution>
+<Wedding>
+Bulat did not take the glass, but seized the maiden by her right hand, drew her out of the tower,
+and seated her on Prince Ivan's horse, and the good youths gall.
+</Wedding>
 </Move>
 </Folktale>
