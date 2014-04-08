@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Folktale>
 <Move>
-<Filler>
+<Preparation>
  In A certain kingdom in a certain land there lived a king who had three sons. 
  
  One day they said to him: 
@@ -11,7 +11,7 @@
  we wish to go hunting." 
  
  The father gave them his blessing and they set out in different directions. 
- </Filler>
+ </Preparation>
  <Departure>
  The youngest son rode and rode and lost his way; 
  </Departure>
