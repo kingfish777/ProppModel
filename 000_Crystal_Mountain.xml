@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Folktale>
+<Move>
+<Filler>
+ In A certain kingdom in a certain land there lived a king who had three sons. 
+ 
+ One day they said to him: 
+ 
+ "Father, our gracious sovereign, give us your blessing; 
+ 
+ we wish to go hunting." 
+ 
+ The father gave them his blessing and they set out in different directions. 
+ </Filler>
+ <Departure>
+ The youngest son rode and rode and lost his way; 
+ </Departure>
+ <DonorFunctions>
+ he came to a clearing, and there lay a dead horse,
+ around which were gathered beasts of many kinds, birds, and reptiles. 
+ A falcon rose, flew up to the prince, perched on his shoulder, and said: 
+ "Prince Ivan, divide that horse among us; 
+ it has lain here for thirty years, 
+ and we have been quarreling ever since, 
+ unable to find a way of sharing it." 
+ 
+ The prince climbed down from his good steed and divided the carcass: 
+ he gave the bones to the beasts, 
+ the flesh to the birds, 
+ the skin to the reptiles, 
+ and the head to the ants. 
+ 
+ "Thank you, Prince Ivan," 
+ 
+ said the falcon. 
+ 
+ "For your kindness you shall be able to turn into a bright falcon or an ant whenever you wish." 
+ </DonorFunctions>
+ 
+ 
+ 
+ <Transfiguration>
+ Prince Ivan struck the damp earth, 
+ turned into a bright falcon, 
+ soared up into the air, 
+ and flew to the thrice tenth kingdom. 
+ </Transfiguration>
+ <Villainy>
+ More than half of that kingdom had been swallowed into a crystal mountain. 
+ </Villainy>
+ 
+ <ConsentToCounteraction>
+ The prince flew straight into the royal palace, 
+ turned into a goodly youth, and asked the palace guards: 
+ 
+ "Will your king take me into his service?" 
+ "Why should he not take such a goodly youth?" they answered. 
+ 
+ Thus he entered the service of that king and lived in his palace for one week, 
+ then a second, 
+ then a third. 
+ </ConsentToCounteraction>
+ <Departure>
+ The king's daughter asked her father: 
+ "Father, my sovereign, 
+ give me leave to take a ride with Prince Ivan to the crystal mountain." 
+ 
+ The king gave her leave. 
+ 
+ They mounted good steeds and set out. 
+ </Departure>
+ </Move>
+ <Move>
+ <Villainy>
+ When they approached the crystal mountain, 
+ a golden goat jumped suddenly out from nowhere. 
+ The prince chased it; 
+ 
+ he galloped and galloped, 
+ but could not catch the goat, 
+ and when he returned the princess had vanished. 
+ 
+ What was he to do? 
+ 
+ How could he dare to appear before the king? 
+ </Villainy> <!--Lack -->
+ <ConsentToCounterAction>
+ He disguised himself as a very old man, 
+ so that he would be unrecognizable, 
+ came to the palace, 
+ and said to the king: 
+ 
+ "Your Majesty, 
+ hire me as your herdsman." 
+ 
+ "Very well," 
+ said the king, 
+ "be my herdsman. 
+ 
+ When the three-headed dragon comes to your herd, 
+ give him three cows; 
+ 
+ when the six-headed dragon comes, 
+ give him six cows; 
+ 
+ and when the twelve-headed dragon comes, 
+ count off twelve cows." 
+ </ConsentToCounterAction>
+ 
+  <StruggleVictory>
+ Prince Ivan drove his herd over mountains and valleys. 
+ Suddenly the three-headed dragon came flying from a lake and said: 
+ 
+ "Ah, Prince Ivan, what kind of work are you engaged in? 
+ A goodly youth like you should be vying in combat, 
+ not tending cattle. 
+ Well, let me have three cows!" 
+ 
+ "Won't that be too much?" asked the prince. 
+ 
+ "I myself eat only one duck a day, 
+ and you want three cows. 
+ But you won't get any!" 
+ 
+ The dragon flew into a rage, 
+ and instead of three cows, 
+ seized six. 
+ 
+ Prince Ivan straightway turned into a bright falcon, 
+ cut off all the three heads of the dragon, 
+ and drove the cattle home. 
+ 
+ "Well, grandfather," 
+ asked the king, 
+ "has the three-headed dragon come? 
+ Did you give him three cows?" 
+ "No, Your Majesty," 
+ replied Prince Ivan, 
+ "I did not give him any." 
+  </StruggleVictory>
+ 
+ <StruggleVictory>
+ Next day the prince drove his herd over mountains and valleys, 
+ and the six-headed dragon came from the lake and demanded six cows. 
+ "Ah, you gluttonous monster," 
+ said the prince, 
+ "I myself eat only one duck a day, 
+ and see what you demand! I won't give you any!" 
+ The dragon flew into a rage and instead of six, seized twelve cows; 
+ but the prince turned into a bright falcon, 
+ fell upon the dragon, and cut off his six heads. 
+ 
+ He drove the herd,home and the king asked him: 
+ "Well, grandfather, has the six-headed dragon come? 
+ Has my herd grown much smaller?" 
+ "Come he did, but he took nothing," 
+ answered the prince. 
+ </StruggleVictory>
+ 
+ <StruggleVictory>
+ Late at night Prince Ivan turned into an ant 
+  and crawled into the crystal mountain through a little crack. 
+ Lo and behold, the princess was in the crystal mountain. 
+ "Good evening!" said Prince Ivan. 
+ "How did you get here?" 
+ "The twelve-headed dragon carried me off," said the princess. 
+ "He lives in father's lake and has a coffer in his side. 
+ In this coffer is a hare, 
+ in this hare is a duck, 
+ in this duck is an egg, 
+ and in this egg is a seed. 
+ 
+ If you slay the dragon and get that seed, 
+ it will be possible to destroy the crystal mountain and rescue me." 
+ 
+ Prince Ivan crawled out of the mountain, 
+ turned again into a herdsman, 
+ and drove his herd. 
+</StruggleVictory>
+ <StruggleVictory> 
+ Suddenly the twelve-headed dragon flew up to him and said: 
+ "Ah, Prince Ivan, 
+ you are not doing what you should; 
+ a goodly youth like you should be vying in combat, 
+ not tending a herd. Well, count off twelve cows for me!" 
+ "That will be too much for you!" said the prince. 
+ "I myself eat only one duck a day, and see what you demand!" 
+ They began to fight, and after a long struggle or a short struggle, 
+ Prince Ivan defeated the twelve-headed dragon, 
+ slashed open his trunk, and found the coffer in his right side. 
+ In the coffer he found a hare, 
+ in the hare a duck, 
+ in the duck an egg, 
+ in the egg a seed. 
+ He took the seed, 
+ set it alight, 
+ and brought it to the crystal mountain, 
+ which soon melted away. 
+</StruggleVictory>
+ <Wedding>
+ Prince Ivan led the princess to her father, 
+ who was overjoyed and said to the prince: 
+ "Be my son-in-law!" 
+ The wedding was held at once. 
+ </Wedding>
+ <Epilogue>
+ I was at that wedding too. I drank beer and mead; they flowed down my beard but did not go into my mouth. 
+ </Epilogue>
+ 
+
+</Filler>
+<Epilogue>
+ 
+</Epilogue>
+</Move>
+</Folktale>
