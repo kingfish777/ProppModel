@@ -15,20 +15,24 @@ animals every night.
 The King did all he could, but he was unable to destroy it. So at last he called his sons 
 together and said: “Whoever will destroy the Norka, to him will I give the half of my kingdom.”
 </ConsentToCounterAction>
-<Departure>
+<AlienForms>
 Well, the eldest son undertook the task. As soon as it was night, he took his weapons and set out. 
+
 
 But before he reached the park, he went into a tavern, and there he spent the whole night in revelry.
 
 When he came to his senses it was too late; the day had already dawned. 
 
+
 He felt himself disgraced in the eyes of his father, but there was no help for it. 
-
+</AlienForms>
+<AlienForms>
 The next day the second son went, and did just the same. 
+
 Their father scolded them both soundly, and there was an end of it.
-</Departure>
+</AlienForms>
 
-
+<Departure>
 Well, on the third day the youngest son undertook the task. 
 
 They all laughed him to scorn, because he was so stupid, feeling sure he wouldn’t do anything. 
@@ -36,10 +40,10 @@ They all laughed him to scorn, because he was so stupid, feeling sure he wouldn�
 But he took his arms, and went straight into the park, 
 and sat down on the grass in such a position that, the moment he went asleep, his weapons would prick him, 
 and he would awake.
+</Departure>
 
 
-
-
+<StruggleVictory>
 
 Presently the midnight hour sounded. 
 
@@ -84,23 +88,26 @@ world, crying out to the Prince:
 
 “Then only will you overcome me, when you enter here.”
 
+</StruggleVictory>
 
 
-
-
+<Return>
 
 The Prince went home, told his father all that had happened, 
 and asked him to have a leather rope plaited, long enough to reach to the other world. 
+</Return>
 
-
+</Move>
+<Move>
+<Departure>
 His father ordered this to be done. When the rope was made, the Prince called for his brothers, 
 and he and they, having taken servants with them, 
 and everything that was needed for a whole year, 
 set out for the place where the Beast had disappeared under the stone. 
 
+</Departure>
 
-
-
+<TaskSolution>
 When they got there, they built a palace on the spot, 
 and lived in it for some time. But when everything was ready, 
 the youngest brother said to the others: 
@@ -129,8 +136,9 @@ His brothers lowered him accordingly,
 and when he had  reached the other world, underneath the earth, he went on his way. 
 
 
+</TaskSolution>
 
-
+<Filler>
 
 He walked and walked. 
 
@@ -147,6 +155,8 @@ In one of the rooms a dinner was laid out.
 He sat down and dined, and then went into a bedroom. 
 
 There he found a bed, on which he lay down to rest.
+
+
 
 Presently there came in a lady, more beautiful than can be imagined anywhere but in a skazka, who said:
 
@@ -165,9 +175,13 @@ if middle-aged, my mother;
 
 and if a girl, thou shalt be my own sister.”
 
+
+
 Thereupon he came forth. And when she saw him, she was delighted with him, and said:
 
 “Wherefore, O Prince Ivan—my husband dear shalt thou be!—wherefore hast thou come hither?”
+
+
 
 Then he told her all that had happened, and she said:
 
