@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Folktale>
 <Move>
-<Filler>
+<Preparation>
+
 In a certain village lived at one time a peasant, who had three sons, two of whom were clever, 
 but the third was a fool, and his name was Emelyan. 
 
@@ -29,19 +30,20 @@ So they said to Emelyan:
 and, if we prosper in trade, we will buy you a red coat, red boots, and a red cap. 
 But do you stay here at home; 
 and when our wives, your sisters-in-law, desire you to do anything, do as they bid you.” 
+
 The fool, who had a great longing for a red coat and cap, and red boots, 
 answered that he would do whatever his sisters-in-law bade him. 
 So his brothers went off to the city, and the fool stayed at home with his two sisters.
 
 
+</Preparation>
 
 
 
 
 
 
-
-
+<Lack>
 One day, when the winter was come, and the cold was great, his sisters-in-law told him to go out and fetch water; 
 but the fool remained lying on the stove, and said: 
 “Ay, indeed, and who then are you?” 
@@ -65,10 +67,16 @@ and if we have no water we cannot cook. But never mind,” they added;
 
 The fool heard what they said; and, as he longed greatly to have the red coat and cap, 
 he saw that he must go; 
+</Lack>
 
+<Departure>
 so he got down from the stove and began to put on his shoes and stockings and to dress himself to go out. 
 
 When he was dressed, he took the buckets and the axe and went down to the river hard by. 
+<Departure>
+
+<DonorFunctions>
+
 And when he came to the river he began to cut a large hole in the ice. 
 Then he drew water in the buckets, and setting them on the ice, he stood by the hole, looking into the water. 
 And as the fool was looking, he saw a large pike swimming about. 
@@ -190,14 +198,14 @@ and, when he was dressed, he went into the yard, dragged the sledge out of the s
 took a rope and the axe with him, and called out to his sisters-in-law: “Open the gate.”
 
 
+</DonorFunctions>
 
 
 
 
 
 
-
-
+<Filler>
 
 
 
