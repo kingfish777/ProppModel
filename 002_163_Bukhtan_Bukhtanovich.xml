@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Folktale>
 <Move>
-<Filler>
+<Preparation>
+ 
+ 
+
 
  In a certain kingdom in a certain land there lived one Bukhtan Bukhtanovich, 
  who had a stove built on pillars in 
  the middle of a field. He lay on the stove on cockroach milk up to his elbows. 
+ </Preparation>
+ 
+ <DonorFunctions>
+  
+  
+
+ 
  A fox came to him and said: "
  Bukhtan Bukhtanovich, would you like me to marry you to the tsar's daughter?"
 
@@ -59,16 +69,34 @@ Bukhtan Bukhtanovich is all dirty and unfit to come to town; have you some cloth
 
 "Here take these"
 
-The fox took the clothes and came to Bukhtan Bukhtanovich. "Here, change your clothes, Bukhtan, and let us go."
+The fox took the clothes and came to Bukhtan Bukhtanovich. 
 
-They came to the tsar, and at the tar's place the table was already set. Bukhtan did not look at anything except 
+ </DonorFunctions>
+ 
+ <Departure>
+  
+  
+"Here, change your clothes, Bukhtan, and let us go."
+
+
+
+They came to the tsar, and at the tar's place the table was already set. 
+
+</Departure>
+
+<UnrecognizedArrival>
+ 
+
+Bukhtan did not look at anything except 
 himself: He had never seen such clothes in his life. The tsar winked to the fox: "Little fox, why does this 
 Bukhtan Bukhtanovich look only at himself?"
 
 "Tsar, I think he is ashamed to be wearing such clothes; never in his life has he worn such mean garments. Tsar, 
 give him the garment that you yourself wear on Easter Sunday." and to Bukhtan the fox whispered:"Don't look at 
 yourself!"
+</UnrecognizedArrival>
 
+<Filler>
 Bukhtan Bukhtanovich stared at a chair-- it was a gilded one. the tsar again whispered to the fox: "Little fox, 
 why does Bukhtan Bukhtanovich look only at that chair?"
 
