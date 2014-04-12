@@ -98,17 +98,6 @@ you will only have to wish and it shall be done.”
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 On hearing this the fool rejoiced beyond measure for, as he was uncommonly lazy, he thought to himself: 
 “If the pike does everything I have no mind to do, all will be done without my being troubled to work.” 
 
@@ -139,21 +128,12 @@ Then the fool repeated after him these words, and instantly, with the speed of t
 
 
 
-
-
-
-
-
-
 The neighbours were all amazed and said to one another: 
 “This fool makes the buckets come up of themselves from the river, 
  and he follows them home at his leisure.” 
  But Emelyan took no notice of them, and went his way home. 
 The buckets were by this time in the house, and standing in their place on the foot-bench; 
 so the fool got up and stretched himself on the stove.
-
-
-
 
 
 
@@ -200,14 +180,9 @@ and, when he was dressed, he went into the yard, dragged the sledge out of the s
 took a rope and the axe with him, and called out to his sisters-in-law: “Open the gate.”
 
 
-</DonorFunctions>
 
 
 
-
-
-
-<Filler>
 
 
 
@@ -263,6 +238,15 @@ and Emelyan, as usual, when he got home, climbed up and lay upon the stove.
 
 
 
+
+</DonorFunctions>
+
+
+
+
+
+
+<Filler>
 
 
 
@@ -420,8 +404,8 @@ Then the King asked him why he had upset so many people on his way to the wood.
 
 
 
-
-
+</Filler>
+<Wedding>
 
 Just at that moment the King’s daughter came to the window, and Emelyan happening suddenly to look up, and seeing 
 how handsome she was, said in a whisper: 
@@ -453,6 +437,12 @@ And Emelyan lived there for some time comfortably and happy.
 But it was very different in the town; for, at the word of Emelyan, the King’s daughter had fallen in love, and 
 she began to implore her father to give her the fool for her husband. 
 
+</Wedding>
+</Move>
+<Move>
+
+
+<Villainy>
 The King was in a great rage, both with her and the fool, but he knew not how to catch him; 
 
 then his minister proposed that the same officer, as a punishment for not succeeding the first time, 
@@ -467,21 +457,23 @@ If you bring him, you shall be rewarded;
 
 if you return without him, you shall be punished.”
 
+</Villainy>
 
 
 
 
 
 
-
-
+<Departure>
 
 
 When the officer heard this, he left the King and lost no time in going in quest of the fool; 
 and on coming to the village he called for the Starosta and said to him: 
 “Here is money for you; buy everything necessary for a good dinner to-morrow. 
 Invite Emelyan, and when he comes, make him drink until he falls asleep.” 
+</Departure>
 
+<Filler/>
 The Starosta, knowing that the officer came from the King, was obliged to obey him; 
 so he bought all that was required and invited the fool. 
 And Emelyan said he would come, whereat the officer was greatly rejoiced. 
