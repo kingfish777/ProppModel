@@ -11,52 +11,11 @@
 He had three sisters-Princess Maria, Princess Olga, 
  and Princess Anna. Their father and mother died; their parting injunction to their son was: 
  "Whoever woos a 
- sister of yours, give her to him; do not keep them long with you."  </Preparation>
-<Villainy></Villainy>
-<ConnectiveIncident></ConnectiveIncident>
-<Departure></Departure>
-<DonorFunctions></DonorFunctions>
-<LiquidationOfLack></LiquidationOfLack>
-</Move>
-<Move>
- <Villainy></Villainy>
- <ConnectiveIncident></ConnectiveIncident>
- <Departure></Departure>
- <DonorFunctions></DonorFunctions>
- <LiquidationOfLack></LiquidationOfLack>
- <PursuitRescue></PursuitRescue>
-</Move>
-<Move>
- <Villainy></Villainy>
- <ConnectiveIncident></ConnectiveIncident>
- <Departure></Departure>
- <DonorFunctions></DonorFunctions>
- <LiquidationOfLack></LiquidationOfLack>
- <PursuitRescue></PursuitRescue>
-</Move>
-<Move>
- <Villainy></Villainy>
-<ConnectiveIncident></ConnectiveIncident>
-<Departure></Departure>
-<DonorFunctions></DonorFunctions>
- 
- <PursuitRescue></PursuitRescue>
-</Move>
-<Filler>
-
-
-
-
-
-
-
-
-
-
-
-
+ sister of yours, give her to him; do not keep them long with you."  
  The prince buried his parents and in his sorrow went to walk with his sisters in the green garden. 
- 
+</Preparation>
+<Villainy>
+
  Suddenly a black cloud covered the sky and a terrible storm gathered. 
  "Let us go home, sisters," said Prince Ivan. 
  
@@ -78,10 +37,10 @@ he struck the floor,  turned into a brave knight, and said:
  went by as though it had never been.
  
  
+  </Villainy>
  
  
- 
- 
+ <Departure>   </Departure>
  
  Prince Ivan went to walk in the green garden with his two sisters. 
  
@@ -164,12 +123,7 @@ he struck the floor,  turned into a brave knight, and said:
  
  
  
- 
- 
- 
- 
- 
- 
+
  
  They lived together for some time, then the queen decided to make war; 
  
