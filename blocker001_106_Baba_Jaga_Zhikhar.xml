@@ -7,9 +7,10 @@
 -->
 <Folktale>
 <Move>
-<Filler>
+<Preparation>
  Once upon a time there lived a cat, a sparrow, and a brave youth. 
- 
+
+
  The cat and the sparrow went to the forest to chop wood and said to the brave youth: 
  
  "You keep the house, but mind you: if Baba Yaga comes and counts the spoons, do not say a word, keep quiet!" 
@@ -19,16 +20,19 @@
  The cat and the sparrow went away, and the brave youth sat on the stove behind the chimney. 
  
  Suddenly Baba Yaga came in, took the spoons, and began to count them: 
- 
+ </Preparation>
+ <Villainy>
  "This is the cat's spoon, this is the sparrow's spoon, and this is the brave youth's spoon." 
  
  The brave youth could not restrain himself and cried: 
  
  "Baba Yaga, don't touch my spoon!" 
- 
+  </Villainy>
+  <ConnectiveIncident>
  Baba Yaga seized the brave youth, sat on the mortar, and flew off; she drove the mortar, 
  spurring it with the pestle and sweeping away her tracks with her broom. 
- 
+</ConnectiveIncident>
+ <DonorFunctions>
  The brave youth shouted: "Cat, run! Sparrow, fly!"
  
  They heard him and rushed to his help. 
@@ -39,6 +43,7 @@
  The next day the cat and the sparrow again prepared to go to the forest to chop wood, and told the brave youth: 
  "Mind you, if Baba Yaga comes, do not say anything; 
  today we are going far away." 
+ </DonorFunctions>
  
  As soon as the brave youth had sat down on the stove behind the chimney, 
  Baba Yaga came again, and again began to count the spoons: 
