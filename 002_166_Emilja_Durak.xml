@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Folktale>
+<!-- Dpre Epre Fpre A_8 depart G_1 W MOVE
+   A_10 G_2 t q -->
 <Move>
 <Preparation>
 
@@ -663,6 +665,3 @@ but Emelyan did not wish to have the crown.
 
 So the King went back to his kingdom, and the fool remained in the castle and lived happily.
 </Epilogue>
-
-</Move>
-</Folktale>
