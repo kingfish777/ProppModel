@@ -3,7 +3,10 @@
  
  
  
- In a Certain kingdom in a certain land there lived a king who had three daughters and one son, Prince Ivan. 
+ In a Certain kingdom in a certain land there lived a king 
+ 
+ who had three daughters and one son, Prince Ivan. 
+ 
  
  The king grew old and died, and Prince Ivan succeeded to the throne. 
  
@@ -18,10 +21,14 @@
  "Ah, you brave warrior!" they said: 
  
  "Why are you afraid? Think of how Byely Polyanin for thirty years has been warring
+ 
  against Baba Yaga the Golden-legged,
+ 
  without ever climbing down from his horse, without a moment's respite. 
  
+ 
  And you are afraid without having seen anything!" 
+ 
  
  Prince Ivan straightway saddled his good steed, donned his armor, took a steel sword, a long spear, 
  and a silken riding crop, prayed to God, and rode forth to meet the enemy. 
