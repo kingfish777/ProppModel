@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+    a_1 B_4 C depart F1_2 G_1 M N T_3 W # out of sequence M / double F_2 / F*9_6
+    -->
 <Folktale>
 <Move>
 <Filler>
