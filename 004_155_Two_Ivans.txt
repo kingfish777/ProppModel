@@ -1,4 +1,11 @@
- IN A certain kingdom in a certain land there lived a peasant. The time came for him to be taken as a soldier. 
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Folktale>
+<Move>
+<Preparation> 
+
+
+ In a certain kingdom in a certain land there lived a peasant. The time came for him to be taken as a soldier. 
  His wife was pregnant, and as he bade her farewell, he said: "Mind you, wife, live decently, 
  do not become the laughingstock of respectable people. Do not ruin our house, 
  but manage it wisely and await my return; with the help of God, I may be retired and return home.
@@ -392,3 +399,9 @@
  The old man took the coin, swelled up, and turned into a lion, seized Prince Ivan, 
  and tore him into little bits. 
  Thus died the two mighty champions, the soldier's sons-at the hands of the dragons' sister. 
+
+</Preparation>
+</Move>
+</Folktale>
+
+
