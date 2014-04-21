@@ -1,5 +1,9 @@
  <?xml version="1.0" encoding="UTF-8"?>
-
+<!-- 
+ A_3 B_4 C depart              K_7 return          MOVE
+   A_3 B_4 C depart              K_7 return          MOVE
+Dpre Epre Fpre a_1  C depart D1_8 E1_8 F1_8             Pr_1 Rs_2  
+    -->
 <Folktale>
 <Move>
  <Filler>
