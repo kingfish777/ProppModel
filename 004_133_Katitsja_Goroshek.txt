@@ -1,3 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Folktale>
+<Move>
+<Preparation> 
+
 In a certain empire and a certain province, on the ocean sea, on the island of Bujan, stood a green oak, and under 
 the oak a roasted ox, and by its side a whetted knife; 
 
@@ -358,3 +364,8 @@ seven fathoms deep.
 Then, and not till then, did he live and eat morsels; but we ate bread, for he had none.
 
 I was there, too, and drank honey-wine; it flowed over my beard, but didn't get into my mouth.
+
+</Preparation>
+</Move>
+</Folktale>
+
