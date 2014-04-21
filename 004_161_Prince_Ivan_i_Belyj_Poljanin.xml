@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
+<!-- 
+  A_19 B_2 C depart H_1 I_1 K_4 return MOVE
+  a_1 C depart F1_1 G_3 H_1 I_1 K_9 MOVE % KF9
+  a_1 C depart D1_9 E1_9 F1_1 G_6 D2_9 E2_9 F2_4 G_5 J I_5 K_4 return MOVE
+  a_1 C depart G_2 H_1 I_1
+    -->
 <Folktale>
 <Move>
 <Preparation> 
