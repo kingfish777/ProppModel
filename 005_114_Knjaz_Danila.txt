@@ -1,3 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Folktale>
+<Move>
+<Preparation> 
+
  Once there were two peasants, both of them very poor. 
  
  One lived by means of all kinds of lies and deceit, he swindled and stole. 
@@ -250,3 +256,7 @@
  He said to the king: 
  "I can cure your princess."
  And so he was admitted to the king's private chambers and shown the suffering 
+ <!-- -->
+ </Preparation>
+ </Move>
+ </Folktale>
