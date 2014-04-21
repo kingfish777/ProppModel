@@ -8,17 +8,21 @@
 <Folktale>
 <Move>
 <Preparation> 
-</Preparation>
-<Filler>
- In a certain kingdom in a certain land there lived a peasant. The time came for him to be taken as a soldier. 
+
+
+ In a certain kingdom in a certain land there lived a peasant.
+ </Preparation>
+ <Lack>
+ The time came for him to be taken as a soldier. 
  His wife was pregnant, and as he bade her farewell, he said: 
- 
+ <!-- lack of presence of husband? -->
  "Mind you, wife, live decently, 
  do not become the laughingstock of respectable people. 
  
  Do not ruin our house, 
  but manage it wisely and await my return; with the help of God, I may be retired and return home.
- 
+ </Lack>
+ <ConnectiveIncident>
  Here are fifty rubles for you;
  
  whether you give birth to a daughter or a son, keep the money till the child is of age. 
@@ -27,8 +31,11 @@
  
  and if God gives us a son,
  this money will be of no little help to him when he grows up." 
- 
+ </ConnectiveIncident>
+ <Departure>
  He said farewell to his wife and marched off to the regiment to which he was ordered. 
+ </Departure>
+ <Filler>
  
  Three months later, his wife bore twin boys and named them each Ivan. 
  
