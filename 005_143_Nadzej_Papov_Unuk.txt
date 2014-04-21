@@ -1,4 +1,10 @@
- There was once a king who had three daughters, 
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Folktale>
+<Move>
+<Preparation> 
+
+There was once a king who had three daughters, 
  and such beauties they were as no tongue can tell of nor pen describe. 
  
  
@@ -294,3 +300,6 @@
  
  
  
+</Preparation>
+</Move>
+</Folktale>
