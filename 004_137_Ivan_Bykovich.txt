@@ -1,8 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
 
-
-
-
-
+<Folktale>
+<Move>
+<Preparation> 
 
  In a certain kingdom, 
  
@@ -32,7 +32,8 @@
  wealthy merchants and peasants, 
  
  gathered in the king's palace; 
- 
+ </Preparation>
+ <Lack>
  
  
  he gave them meat and drink till they were drunk and then began to question them. 
@@ -54,8 +55,8 @@
  
  he had not even dreamed of what he should suggest; 
  
- 
- 
+ </Lack>
+ <Filler>
  
  so he went outside the town and began to ponder deeply. 
  
@@ -1805,4 +1806,7 @@ and gave them as much money as they could carry.
  the three rods I prepared are all broken. Now live happily together, love each other, and do not forget me." 
  
  
+ </Filler>
+ </Move>
+ </Folktale>
  
