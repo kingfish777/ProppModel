@@ -1,6 +1,8 @@
- 
- 
- 
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Folktale>
+<Move>
+<Preparation> 
  
  
  In a Certain kingdom in a certain land there lived a king 
@@ -460,3 +462,6 @@
  Then he returned home and began to live with his young wife in happiness and prosperity. 
  
  
+</Preparation>
+</Move>
+</Folktale>
