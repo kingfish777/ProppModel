@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
+<!-- 
+   A_1 B_1 C depart D1_9 E1_9 G_6 F2_7 I_5 K_4 return W
+   -->
 <Folktale>
 <Move>
 <Preparation>
