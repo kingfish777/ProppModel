@@ -1,5 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
 
-
+<Folktale>
+<Move>
+<Preparation>
 
 
  In a certain kingdom there was a king who had three daughters of surpassing beauty. 
@@ -262,4 +265,6 @@
  
  he immediately married Dawn, Evening, and Midnight to his daughters, and at his death made Dawn his heir. 
 
-
+</Preparation>
+</Move>
+</Folktale>
