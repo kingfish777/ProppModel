@@ -1,4 +1,11 @@
- ONCE there were two peasants, both of them very poor.
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Folktale>
+<Move>
+<Preparation> 
+ 
+ 
+ Once there were two peasants, both of them very poor.
  One lived by means of all kinds of lies and deceit, he swindled and stole.
  But the other followed the path of truth and honest labor. 
  These two peasants had a dispute over the manner of living that each had chosen.
@@ -202,3 +209,8 @@
  they tore him to shreds. And so this affair was concluded: 
  the righteous man became the king's son-in-law and the iniquitous one was put to death by the devils. 
  
+ 
+
+</Preparation> 
+</Move>
+</Folktale>
