@@ -4,7 +4,8 @@
     -->
 <Folktale>
 <Move>
-<Filler>
+<Preparation>
+ 
  
 There were once upon a time an old peasant and his wife, and they had three sons. 
 
@@ -30,10 +31,12 @@ and the rivers, even to huts in the forest like ours, to say that he would give 
 the Princess, in marriage to any one who could bring him a flying ship—ay, 
 a ship with wings, that should sail this way and that through the blue sky, 
 like a ship sailing on the sea.
-
+</Preparation>
+<Lack>
 "This is a chance for us," said the two clever brothers; and that same day they set off together, to see if one 
 of them could not build the flying ship and marry the Tzar's daughter, and so be a great man indeed.
-
+</Lack>
+<Filler>
 And their father blessed them, and gave them finer clothes than ever he wore himself. 
 
 And their mother made them up hampers of food for the road, soft white rolls, 
