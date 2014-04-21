@@ -13,13 +13,16 @@
  In a Certain kingdom in a certain land there lived a king 
  
  who had three daughters and one son, Prince Ivan. 
- 
+ </Preparation>
+ <Villainy>
  
  The king grew old and died, and Prince Ivan succeeded to the throne. 
  
  Upon learning this, the neighboring kings gathered together innumerable troops and waged war against him. 
  
  Prince Ivan did not know what to do. 
+ </Villainy>
+ <ConnectiveIncident/>
  
  He came to his sisters and asked them: 
  
@@ -35,8 +38,8 @@
  
  
  And you are afraid without having seen anything!" 
- 
- 
+ </ConnectiveIncident>
+ <Filler>
  Prince Ivan straightway saddled his good steed, donned his armor, took a steel sword, a long spear, 
  and a silken riding crop, prayed to God, and rode forth to meet the enemy. 
  
@@ -467,6 +470,6 @@
  Then he returned home and began to live with his young wife in happiness and prosperity. 
  
  
-</Preparation>
+</Filler>
 </Move>
 </Folktale>
