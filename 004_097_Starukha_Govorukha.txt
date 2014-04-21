@@ -1,3 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Folktale>
+<Move>
+<Preparation>
+
+
+
 
  Night and day a certain old stepmother grumbled-one wondered why her tongue did not ache! 
  
@@ -90,4 +98,11 @@
  seated the welcome guest under the icon, and said to her civilly: 
  
  "What is your pleasure, madam?" 
+
+</Preparation>
+</Move>
  
+</Folktale>
+
+
+
