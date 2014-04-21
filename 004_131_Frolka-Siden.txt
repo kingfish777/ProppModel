@@ -1,3 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Folktale>
+<Move>
+<Preparation>  
+ 
  There was once a king who had three daughters, 
  and such beauties they were as no tongue can tell of nor pen describe. 
  Their garden was big and beautiful and they liked to walk there at night.
@@ -136,4 +142,7 @@
  When his cap is filled, I shall go on with my story, but now I am too tired. 
  
  
- 
+ </Preparation>
+ </Move>
+ </Folktale>
+
