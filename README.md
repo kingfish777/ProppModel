@@ -12,6 +12,7 @@ Clean AFAN:
 
 https://github.com/kingfish777/central_corpora/tree/master/AFAN
 
+guide: https://github.com/kingfish777/central_corpora/blob/master/AFAN/Corpus_Rus.xml
 --------------------
 
 r e c u r s i v e  
