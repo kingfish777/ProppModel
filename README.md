@@ -110,3 +110,7 @@ http://www.r-bloggers.com/simple-data-mining-and-plotting-data-on-a-map-with-ggp
 
 Topic Modeling and Salience(!!!): 
 http://www.r-bloggers.com/topic-modeling-in-r/
+
+clean text: 
+http://www.r-bloggers.com/automatic-cleaning-of-messy-text-data/
+
