@@ -102,3 +102,11 @@ http://trinkerrstuff.wordpress.com/2012/10/04/presidential-debates-with-qdap-bet
 structured exploration:
 http://www.r-bloggers.com/igraph-and-structured-text-exploration/
 
+Stemming:
+http://www.r-bloggers.com/help-stemming-and-stem-completion-with-package-tm-in-r/
+
+Mapping text:
+http://www.r-bloggers.com/simple-data-mining-and-plotting-data-on-a-map-with-ggplot2/
+
+Topic Modeling and Salience(!!!): 
+http://www.r-bloggers.com/topic-modeling-in-r/
