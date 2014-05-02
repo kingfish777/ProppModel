@@ -85,3 +85,20 @@ a   f e w
 f r o m   t h e   l a s t
 c e n t -
 u r y.
+
+
+SQL:
+http://www.r-bloggers.com/databases-for-text-analysis-archive-and-access-texts-using-sql/
+
+Red Dwarf:
+http://www.r-bloggers.com/what-the-smeg-some-text-analysis-of-the-red-dwarf-scripts/
+
+Text Processing: 
+http://en.wikibooks.org/wiki/R_Programming/Text_Processing
+
+qdap:
+http://trinkerrstuff.wordpress.com/2012/10/04/presidential-debates-with-qdap-beta/
+
+structured exploration:
+http://www.r-bloggers.com/igraph-and-structured-text-exploration/
+
