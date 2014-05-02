@@ -86,6 +86,8 @@ f r o m   t h e   l a s t
 c e n t -
 u r y.
 
+------------------------------
+
 
 SQL:
 http://www.r-bloggers.com/databases-for-text-analysis-archive-and-access-texts-using-sql/
