@@ -114,3 +114,5 @@ http://www.r-bloggers.com/topic-modeling-in-r/
 clean text: 
 http://www.r-bloggers.com/automatic-cleaning-of-messy-text-data/
 
+Born to run lyrics analysis: 
+http://www.r-bloggers.com/automatic-cleaning-of-messy-text-data/
