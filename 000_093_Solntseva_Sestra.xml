@@ -481,7 +481,7 @@ Nearer she came and nearer.
 
 "Ah, little one," screams the witch baby, "you shan't get away this time!"
 </PursuitRescue>
-
+<StruggleVictory>
 The Sun's little sister was looking from a window of the castle in the sky, 
 and she saw the witch baby stretching out to grab little Prince Ivan. 
 
@@ -493,9 +493,7 @@ How the witch baby gnashed her iron teeth!
 "Give him up!" she screams.
 
 "I will not," says the Sun's little sister.
-</StruggleVictory>
 
-<StruggleReward>
 "See you here," says the witch baby, and she makes herself smaller and smaller and smaller, 
 till she was just like a real little girl. 
 
@@ -523,7 +521,7 @@ and came down on the topmost turret of the cloud castle of the little sister of 
 The Sun's little sister laughed, and closed the window, and went up to the turret to 
 meet the little Prince. But the witch baby turned back the way she had come, and went off, 
 gnashing her iron teeth until they broke. 
-</StruggleReward>
+</StruggleVictory>
 
 
 <Wedding>
