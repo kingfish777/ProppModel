@@ -1,0 +1,2108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Corpus>
+
+
+<!--
+ A_9 B_5 D1_1 E1_1 F1_1 return MOVE
+   a_6 B_5 C depart D1_1 E1_1 F1 return -->
+<Folktale>
+<Move>
+<Preparation>
+There was once a stepmother who had a stepdaughter and a daughter of her own.
+ At anything her own daughter did, the woman would pat her head and say:
+ "Clever girl!" But no matter how hard the stepdaughter tried, she was always found in the wrong.
+ Yet the truth of the matter was that the stepdaughter was as good as gold;
+ in the proper hands she would have been like cheese in butter, but in her stepmother's house
+ she bathed in tears every day. What could she do? Even an angry wind subsides at last;
+ but when the old woman got angry she never quieted down, she would hurl one insult after another,
+ and her mouth was so full of venom that her teeth itched.
+
+ One day the stepmother made up her mind to drive her stepdaughter out of the house.
+ She said to her husband:
+ "Take her, take her, old man, take her wherever you wish,
+ so that my eyes do not see her and my ears do not hear her.
+ And don't take her to the warm house of your kin,
+ but into the open field in the bitter frost."
+
+ </Preparation>
+<Villainy> 
+
+ The old man began to grieve and lament; 
+ none the less he put his daughter on a sledge.
+ 
+ He wanted to cover her with a horse cloth but did not dare.
+ 
+ He took the homeless girl into the open field, set her down on a heap of snow,
+ made the sign of the cross over her, and hastened home as fast as possible,
+ that his eyes might not behold his daughter's death. </Villainy>
+ 
+ <DonorFunctions>
+ The poor little thing remained there shivering and softly repeating her prayers.
+ 
+ Jack Frost came leaping and jumping and casting glances at the lovely maiden.
+ 
+ "Maiden, maiden, I am Jack Frost the Ruby-nosed!" he said.
+ "Welcome, Jack Frost! God must have sent you to save my sinful soul."
+ 
+ Jack Frost was about to crack her body and freeze her to death,
+ but he was touched by her wise words, pitied her, and tossed her a fur coat.
+ 
+ She put it on, squatted on her heels, and sat thus.
+ Again Jack Frost the Ruby-nosed came leaping and jumping and casting glances at the lovely maiden.
+ 
+ "Maiden, maiden, I am Jack Frost the Ruby-nosed!" he said.
+ 
+ "Welcome, Jack Frost! God must have sent you to save my sinful soul."
+ But Jack Frost had not come to save her soul at all;
+ 
+ he brought her a coffer, deep and heavy, 
+ full of bedding and petticoats and all sorts of things for her dowry.
+ 
+ And she sat on the coffer in her fur coat, so gay, so pretty!
+ Again Jack Frost came leaping and jumping and casting glances at the lovely maiden.
+ She welcomed him and he gave her a robe embroidered with silver and gold.
+ She put it on-and how beautiful and stately she looked!
+ She sat there happily singing songs.
+ </DonorFunctions>
+ <Return>
+ Meanwhile her stepmother was preparing her funeral dinner and frying pancakes.
+ "Go, husband," she said, "bring home your daughter, that we may bury her."
+ The old man went. The little dog under the table said:
+ "Bow-wow, the old man's daughter is coming home all decked in gold and silver,
+ but no suitor wants the old woman's daughter!"
+ 
+ 
+ "Be quiet, you fool! Here is a pancake for you,
+ and now say that suitors will come for the old woman's daughter,
+ but of the old man's daughter only bones will be brought home."
+ 
+ The little dog ate the pancake and said again:
+ "Bow-wow! The old man's daughter is coming home all decked in gold and silver,
+ but the suitors don't want the old woman's daughter."
+ 
+ The old woman gave the dog more pancakes and beat him,
+ but he kept saying the same thing:
+ "The old man's daughter is coming home decked in gold and silver,
+ but the suitors don't want the old woman's daughter."
+ 
+ The gate creaked, the doors flew wide open,
+ a coffer deep and heavy was brought in,
+ and the stepdaughter followed, radiant, like a grand lady.
+ </Return>
+ </Move>
+<Move>
+<Villainy>
+ The stepmother looked at her and threw up her arms.
+ 
+ "Old man, old man," she ordered, "harness other horses, take my daughter at once,
+ put her in the same field, in the very same place!"
+ </Villainy>
+<Departure>
+ The old man took the girl to the same field and left her in the very same place.
+ </Departure>
+<DonorFunctions>
+ And Jack Frost the Ruby-nosed came, looked at his guest, leapt and jumped,
+ but did not hear any kind words. 
+ 
+ He grew angry, seized her, and killed her.
+</DonorFunctions>
+<AlienForms> 
+ The old woman said to her husband:
+ "Old man, go bring my daughter.
+ Harness spirited horses-and don't overturn the sledge, don't drop the coffer!"
+ 
+ But the little dog under the table said:
+ "Bow-wow, the suitors will take the old man's daughter,
+ but the bones of the old woman's daughter will be brought home in a sack."
+ 
+ "Don't lie! here is a pancake for you, and say:
+ 'The old woman's daughter is coming home decked in gold and silver.'
+ 
+ "The gate flew open and the old woman ran out to greet her daughter,
+ but instead she embraced a cold corpse. She began to wail and howl, but it was too late.
+</AlienForms>
+</Move>
+</Folktale>
+ 
+
+
+<!--
+ A_9 B_5 D1_1 E1_1 F1_1 return MOVE
+   a_6 B_5 C depart D1_1 E1_1 F1 return -->
+<Folktale>
+<Move>
+<Preparation>
+There was once a stepmother who had a stepdaughter and a daughter of her own.
+ At anything her own daughter did, the woman would pat her head and say:
+ "Clever girl!" But no matter how hard the stepdaughter tried, she was always found in the wrong.
+ Yet the truth of the matter was that the stepdaughter was as good as gold;
+ in the proper hands she would have been like cheese in butter, but in her stepmother's house
+ she bathed in tears every day. What could she do? Even an angry wind subsides at last;
+ but when the old woman got angry she never quieted down, she would hurl one insult after another,
+ and her mouth was so full of venom that her teeth itched.
+
+ One day the stepmother made up her mind to drive her stepdaughter out of the house.
+ She said to her husband:
+ "Take her, take her, old man, take her wherever you wish,
+ so that my eyes do not see her and my ears do not hear her.
+ And don't take her to the warm house of your kin,
+ but into the open field in the bitter frost."
+
+ </Preparation>
+<Villainy> 
+
+ The old man began to grieve and lament; 
+ none the less he put his daughter on a sledge.
+ 
+ He wanted to cover her with a horse cloth but did not dare.
+ 
+ He took the homeless girl into the open field, set her down on a heap of snow,
+ made the sign of the cross over her, and hastened home as fast as possible,
+ that his eyes might not behold his daughter's death. </Villainy>
+ 
+ <DonorFunctions>
+ The poor little thing remained there shivering and softly repeating her prayers.
+ 
+ Jack Frost came leaping and jumping and casting glances at the lovely maiden.
+ 
+ "Maiden, maiden, I am Jack Frost the Ruby-nosed!" he said.
+ "Welcome, Jack Frost! God must have sent you to save my sinful soul."
+ 
+ Jack Frost was about to crack her body and freeze her to death,
+ but he was touched by her wise words, pitied her, and tossed her a fur coat.
+ 
+ She put it on, squatted on her heels, and sat thus.
+ Again Jack Frost the Ruby-nosed came leaping and jumping and casting glances at the lovely maiden.
+ 
+ "Maiden, maiden, I am Jack Frost the Ruby-nosed!" he said.
+ 
+ "Welcome, Jack Frost! God must have sent you to save my sinful soul."
+ But Jack Frost had not come to save her soul at all;
+ 
+ he brought her a coffer, deep and heavy, 
+ full of bedding and petticoats and all sorts of things for her dowry.
+ 
+ And she sat on the coffer in her fur coat, so gay, so pretty!
+ Again Jack Frost came leaping and jumping and casting glances at the lovely maiden.
+ She welcomed him and he gave her a robe embroidered with silver and gold.
+ She put it on-and how beautiful and stately she looked!
+ She sat there happily singing songs.
+ </DonorFunctions>
+ <Return>
+ Meanwhile her stepmother was preparing her funeral dinner and frying pancakes.
+ "Go, husband," she said, "bring home your daughter, that we may bury her."
+ The old man went. The little dog under the table said:
+ "Bow-wow, the old man's daughter is coming home all decked in gold and silver,
+ but no suitor wants the old woman's daughter!"
+ 
+ 
+ "Be quiet, you fool! Here is a pancake for you,
+ and now say that suitors will come for the old woman's daughter,
+ but of the old man's daughter only bones will be brought home."
+ 
+ The little dog ate the pancake and said again:
+ "Bow-wow! The old man's daughter is coming home all decked in gold and silver,
+ but the suitors don't want the old woman's daughter."
+ 
+ The old woman gave the dog more pancakes and beat him,
+ but he kept saying the same thing:
+ "The old man's daughter is coming home decked in gold and silver,
+ but the suitors don't want the old woman's daughter."
+ 
+ The gate creaked, the doors flew wide open,
+ a coffer deep and heavy was brought in,
+ and the stepdaughter followed, radiant, like a grand lady.
+ </Return>
+</Move>
+<Move>
+ <Villainy>
+ The stepmother looked at her and threw up her arms.
+ 
+ "Old man, old man," she ordered, "harness other horses, take my daughter at once,
+ put her in the same field, in the very same place!"
+ </Villainy>
+<Departure>
+ The old man took the girl to the same field and left her in the very same place.
+ </Departure>
+<DonorFunctions>
+ And Jack Frost the Ruby-nosed came, looked at his guest, leapt and jumped,
+ but did not hear any kind words. 
+ 
+ He grew angry, seized her, and killed her.
+</DonorFunctions>
+<AlienForms> 
+ The old woman said to her husband:
+ "Old man, go bring my daughter.
+ Harness spirited horses-and don't overturn the sledge, don't drop the coffer!"
+ 
+ But the little dog under the table said:
+ "Bow-wow, the suitors will take the old man's daughter,
+ but the bones of the old woman's daughter will be brought home in a sack."
+ 
+ "Don't lie! here is a pancake for you, and say:
+ 'The old woman's daughter is coming home decked in gold and silver.'
+ 
+ "The gate flew open and the old woman ran out to greet her daughter,
+ but instead she embraced a cold corpse. She began to wail and howl, but it was too late.
+</AlienForms>
+</Move>
+</Folktale>
+ 
+
+
+
+<Folktale>
+<!-- Propp says: 
+ I:  A9 B5 D1 E1 f1 Return Departure
+ II: a6 D1 Departure B2_5 E-F = Return
+-->
+<Move>
+<Preparation>
+ A widowed peasant with a daughter married a widow who also had a daughter; 
+ 
+ thus they each had a stepchild. 
+</Preparation>
+<Villainy>
+ The stepmother was envious and nagged the old man constantly, saying: 
+ 
+ "Take your daughter to the woods, to a mud hut; there she will spin more." 
+ 
+ What could the peasant do? 
+ 
+ He did as his wife told him, took his daughter to a mud hut, 
+ gave her a steel and flint and a bag of grits, and said: 
+ 
+ "Here is fire for you, do not let it die out; cook your kasha, sit and spin, and keep the hut locked." 
+ </Villainy>
+ <DonorFunctions>
+ Night came. 
+ 
+ The girl heated the stove and cooked her kasha; 
+ 
+ from somewhere a little mouse came out and said: "Maiden, maiden, give me a spoonful of kasha." 
+ "Oh, little mouse, cheer me in my loneliness, 
+ and I will give you more than one spoonful of kasha. 
+ I shall let you eat your fill of it." 
+ 
+ The mouse ate his fill and left. 
+ At night a bear broke into the hut and said: 
+ 
+ "Now, girl, put out the light and let us play blindman's buff." 
+ The mouse ran up the maiden's shoulder and whispered into her ear: 
+ "Fear not, maiden. Say to him, 'Very well, let us play.' 
+ Then put out the light and crawl under the stove; I shall run about and ring the little bell." 
+ So they did. 
+ The bear chased the little mouse but could not catch him; 
+ he began to roar and hurl logs of wood; 
+ he hurled and hurled them but did not hit his mark.
+ He got tired and said: "Ah, little girl, you're an expert player of blindman's buff. 
+ </DonorFunctions>
+ <Filler>
+ 
+ To reward you I shall send you a drove of horses and a cartful of goods tomorrow morning." 
+ Next morning the old man's wife said: 
+ "Go, old man, visit your daughter, see how much she has spun since yesterday." 
+ </Filler>
+ <Return>
+ 
+ The old man went and his wife sat and waited for him to bring back his daughter's bones. 
+ Suddenly the dog began to bark: 
+ "Bow-wow-wow, the daughter is coming, 
+ with her father driving a drove of horses and bringing a cartful of goods." 
+ 
+ "You're lying, dog! Those are her bones rattling and clattering in my husband's basket." 
+  </Return>
+ </Move>
+ 
+ <Move>
+ <Lack>
+ The gate creaked, the horses ran into the yard, 
+ and the stepmother beheld the father and daughter sitting on a cart laden with goods. 
+
+
+  The woman's eyes gleamed with greed. 
+ "That's not very much," she cried. "Now take my daughter to the woods for the night. 
+ 
+ She will come home driving two droves of horses and bringing two cartfuls of goods." 
+ </Lack>
+ <DonorFunctions>
+ The peasant took his wife's daughter to the mud hut and provided her also with food and fire. 
+ At nightfall she cooked gruel. 
+ 
+ The mouse came and asked her for some kasha. 
+ 
+ But she cried: "Oh, you vermin!" And she hurled a spoon at him. 
+ 
+ The mouse ran away, Natasha gobbled up all the kasha by herself, 
+ and, having eaten, put out the light and lay down in a corner. 
+ At midnight the bear broke into the mud hut and said: 
+ 
+ "Hey, where are you, little girl? Let's play blindman's buff." 
+ 
+ The maiden did not answer, but her teeth rattled from fear. 
+ 
+ "Ah, so there you are! Here's a little bell. Run, I will try to catch you." 
+ She took the little bell, her hand trembled, the bell rang incessantly, and the mouse said: 
+ "That wicked maiden will meet her death." 
+ </DonorFunctions>
+ <Return>
+ Next morning the wife sent the old man to the woods, saying: 
+ "Go now! My daughter will bring back two cartfuls of goods and drive two droves of horses." 
+ The peasant went and his wife sat at the gate. 
+ 
+ The dog barked: 
+ "Bow-wow-wow, the wife's daughter is coming, her bones are rattling in the basket, 
+ and the old man sits on an empty cart." 
+ 
+ "You're lying, dog! My daughter is driving herds and bringing full carts." 
+ 
+ She looked up and there was the old man at the gate. 
+ 
+ He handed his wife a basket; she opened the basket, saw the bones, began to howl, 
+ and grew so angry that from grief and spite she died the next day. 
+ </Return>
+ <Wedding>
+ But the old man lived happily with his daughter all his life 
+ and took into his house a wealthy son-in-law. 
+ </Wedding>
+</Move>
+</Folktale>
+
+
+
+
+
+
+
+<Folktale>
+<!--
+    A_11 B_7 depart K_8 M N Ex U w_2   
+  -->
+ <Move>
+ <Preparation>
+
+ In A certain kingdom, in a certain land, there lived a king and a queen, 
+ and they had an only daughter, Princess Maria. 
+ 
+ When the queen died, the king took another wife, Yagishna. 
+ 
+ Yagishna gave birth to two daughters: one had two eyes, and the other three eyes. 
+ </Preparation>
+ <Villainy>
+ The stepmother disliked Princess Maria, and ordered her to take Burenushka, 
+ the little red cow, to pasture, and gave her a crust of dry bread for her dinner. 
+ </Villainy>
+ <LiquidationOfLack>
+ The princess went to the open field, bowed to Burenushka's right leg, ate and drank her fill, 
+ and dressed in fine attire; all day long, dressed like a lady, she tended Burenushka. 
+ 
+ At the end of the day, she again bowed to the little cow's right leg, removed her fine attire, 
+ went home carrying back her crust of bread, and put it on the table. 
+ </LiquidationOfLack>
+ <TaskSolution>
+ "How does the slut keep alive?" wondered Yagishna. 
+ 
+ The next day she gave Princess Maria the same crust, and sent her elder daughter with her, saying: 
+ 
+ "Give an eye to what Princess Maria feeds herself with." 
+ 
+ They came to the open field and Princess Maria said: 
+ 
+ "Little sister, let me pick the lice from your head." 
+ 
+ She began to pick them, at the same time saying: 
+ 
+ "Sleep, sleep, little sister! Sleep, sleep, my dear! Sleep, sleep, little eye! Sleep, sleep, other eye!" 
+ 
+ The sister fell asleep, and Princess Maria rose up, went to Burenushka, bowed to her right leg, 
+ ate and drank her fill, dressed herself in fine attire, 
+ and all day long walked around like a lady. 
+ 
+ Night came; Princess Maria removed her fine attire and said: 
+ 
+ "Get up, little sister, get up, my dear, let us go home." 
+ 
+ "Ah," said the sister unhappily, 
+ 
+ "I have slept through the day, and have not seen anything; now my mother will scold me." 
+ 
+ They came home; the mother asked her: 
+ 
+ "What did Princess Maria eat, what did she drink?" 
+ 
+ "I have not seen anything." 
+ 
+ Yagishna scolded her; 
+ 
+ next morning she got up and sent her three-eyed daughter, saying: 
+ 
+ "Go and see what that slut eats and drinks." 
+ 
+ The girls came to the open field where Burenushka grazed, and Princess Maria said: 
+ 
+ "Little sister, let me pick the lice from your head." 
+ 
+ "Pick them, little sister! Pick them, my dear!" 
+ 
+ Princess Maria began to pick, saying at the same time: 
+ 
+ "Sleep, sleep, little sister! Sleep, sleep, my dear! 
+ 
+ Sleep, sleep, little eye! Sleep, sleep, other eye!" 
+ 
+ She forgot about the third eye, and the third eye looked 
+ and looked at what Princess Maria was doing. 
+
+She ran to Burenushka, bowed to her right leg, ate and drank her fill, dressed in fine attire. 
+
+When the sun began to set, she again bowed to Burenushka, removed her fine attire, 
+and went to rouse the three-eyed one: 
+
+"Get up, little sister! Get up, my dear! Let us go home!" 
+
+Princess Maria came home and put her dry crust on the table. 
+
+The mother questioned her daughter: 
+
+"What does she eat and drink?" The three-eyed one told everything. 
+
+Yagishna said to her husband: 
+
+"Slaughter Burenushka, old man!" 
+
+And the old man slaughtered the cow. 
+
+Princess Maria begged him: 
+
+"Please, my dear, give me at least a bit of the entrails!" 
+
+The old man threw her a bit of the entrails. 
+
+She took it, placed it on a gatepost, 
+and a bush with sweet berries grew up on it, 
+and all kinds of little birds perched 
+there and sang songs of kings and of peasants. 
+
+Prince Ivan heard about Princess Maria, came to her stepmother, put a dish on the table, and said: 
+
+"Whichever maiden picks a dishful of berries for me, her I will take for my wife." 
+
+Yagishna sent her elder daughter to pick berries; 
+
+the birds did not even let her come near, she had to guard her eyes lest the birds peck them out. 
+ 
+ Yagishna sent her other daughter, and they did not let her come close either. 
+ 
+ At last she sent Princess Maria. 
+ 
+ Princess Maria took the dish and went to pick the berries; 
+ 
+ and as she picked them, the little birds placed twice 
+ and thrice as many on the dish as she herself could pick. 
+ 
+ She returned, placed the berries on the table, and bowed to the prince. 
+ 
+ There was a gay feast and a wedding; 
+ 
+ Prince Ivan took Princess Maria away, and they began to live happily and prospered.
+ 
+ After some time, a long time or a short time, Princess Maria gave birth to a son. 
+ 
+ She wanted to visit her father, and went to his house with her husband. 
+ 
+ Her stepmother turned her into a goose and disguised her elder daughter as Prince Ivan's wife. 
+ 
+ Prince Ivan returned home. 
+ 
+ The old tutor of the child got up early in the morning, 
+ washed himself very clean, 
+ took the baby in his arms, 
+ and went to an open field, 
+ stopping near a little bush. 
+ 
+ 
+ Geese came flying, gray geese came. 
+ 
+ "My geese, gray geese! Where have you seen the baby's mother?" "In the next flock." 
+ 
+ The next flock came. 
+ 
+ "My geese, gray geese! Where have you seen the baby's mother?" 
+ 
+ The baby's mother jumped to the ground, tore off her goose skin, 
+ took the baby in her arms, and nursed him at her breast, crying: 
+ 
+ "I will nurse him today, 
+ I will nurse him tomorrow, 
+ but the day after I will fly beyond the forests dark, 
+ beyond the mountains high!" 
+ 
+ The old man went home. 
+ 
+ The little fellow slept till next morning without awakening, 
+ and the false wife railed at the old man for having gone to the open field 
+ and for having starved her son. 
+ 
+ Next morning again he got up very early, 
+ washed himself very clean, 
+ and went with the child to the open field; 
+ 
+ and Prince Ivan got up, 
+ followed the old man unseen, 
+ and hid in the bush. 
+ 
+ Geese came flying, gray geese came. 
+ 
+ 
+ The old man called to them: 
+ 
+ "My geese, gray geese! Where have you seen the baby's mother?" 
+ "In the next flock." 
+ The next flock came. 
+ 
+ "My geese, gray geese! Where have you seen the baby's mother?" 
+ 
+ The baby's mother jumped to the ground, tore off her goose skin, 
+ threw it behind the bush, nursed the baby at her breast, 
+ and said farewell to him: 
+ 
+ "Tomorrow I will fly beyond the  forests dark, beyond the mountains high!" 
+ 
+ She gave the baby to the old man and said: 
+ 
+ "Why is there a smell of  burning?" 
+ 
+ She turned to put her goose skin on, and realized that it was gone: Prince Ivan had burned it. 
+ 
+ He grasped Princess Maria; 
+ 
+ she turned into a frog, then into a lizard, 
+ and into one kind of loathsome insect after another, 
+ and at last into a spindle. 
+ 
+ Prince Ivan broke the spindle in two, threw the top back of him and the bottom in front of him, 
+ and a beautiful young woman stood before him. 
+ 
+ They went home together. 
+ 
+ Yagishna's daughter yelled and shouted: "The wrecker is coming, the killer is coming!" 
+ 
+ 
+ Prince Ivan gathered the dukes and boyars together and asked them: 
+ 
+ "With which wife do you advise me to live?" 
+ 
+ They said: "With the first." 
+ 
+ "Well, gentlemen, whichever wife is the first to climb the gate, with her will I live." 
+ 
+ Yagishna's daughter at once climbed to the top of the gate, but Princess Maria only clutched it 
+ and did not climb up. 
+ </TaskSolution> 
+ <PunishmentOfFalseHero>
+ Then Prince Ivan took his gun and shot the false wife, 
+ </PunishmentOfFalseHero>
+ <Wedding>
+ and began to live with Princess 
+ Maria as of old, and they prospered. 
+ </Wedding>
+ </Move>
+ </Folktale>
+
+
+
+
+
+
+ 
+ 
+
+<Folktale>
+<!-- Propp says: two moves same as 95 (PG. 145 of the _Morphology_):
+     I:  B5 D1 E1 A9 f1 Return
+     II: a6 B2-5 C D1 Departure E.neg. 1 F = Return -->
+
+<Move>
+ <Preparation>
+ Once upon A time there lived an old man and his wife. 
+ When the old man became a widower, 
+ he married another wife, 
+ although he had a daughter from his first wife. 
+ </Preparation>
+ <Villainy>
+ The wicked stepmother disliked the girl, beat her, and pondered how she might destroy her. 
+ 
+ One day the father went away somewhere and the stepmother said to the girl: 
+ "Go to your aunt, my sister; 
+ ask her for a needle and some thread to sew a shirt for you." 
+ </Villainy>
+ 
+ <ConnectiveIncident>
+ That aunt was Baba Yaga the Bony-legged. The girl was not stupid and she first went to her own aunt. 
+ "Good day, auntie," she said. 
+ "Good day, my beloved, what have you come for?" said her aunt. 
+ 
+ "Mother has sent me to her sister to ask for a needle and thread to sew me a shirt." 
+ </ConnectiveIncident>
+ <DonorFunctions>
+ The aunt told her what to do. "My little niece," she said,
+ "when you get there, a birch will lash your eyes, but do you tie it with a ribbon. 
+ 
+ The gates will bang and creak at you, but do you pour some oil on their hinges. 
+ Dogs will want to tear you apart, but do you throw them some bread. 
+ A cat will scratch your eyes, but do you give him some ham." 
+
+ 
+ The girl went her way; 
+ she walked and walked and finally arrived at her other aunt's. 
+ 
+ She saw a little hut and in it sat Baha Yaga the Bony-legged. 
+ 
+ "Good day, auntie," said the girl. 
+ 
+ "Good day, my beloved!" 
+ 
+ "Mother sent me to ask for a needle and thread to sew me a shirt." 
+ 
+ "Very well; meanwhile sit down and weave." 
+ 
+ The girl sat at the loom and Baba Yaga went out and said to her maid: 
+ 
+ "Go and heat a bath and wash my niece, but be careful; 
+ I want to eat her for breakfast." 
+ 
+ The girl sat there half dead with fright and begged the maid: 
+ 
+ "My dear, do not burn so much wood! 
+ Pour water over it and bring the water in a sieve." 
+ 
+ And she gave the maid a kerchief. 
+ 
+ Baba Yaga waited. 
+ 
+ She came to the window and asked: 
+ 
+ "Are you weaving, little niece, are you weaving, my darling?" 
+ 
+ "I am weaving, auntie, I am weaving, my dear." 
+ 
+ Baba Yaga went away from the window and the girl gave ham to the cat and asked him: 
+ 
+ "Is there no way of getting away from here?" 
+ "Here is a comb and a towel," said the cat. 
+ 
+ "Take them and run away. 
+ 
+ Baba Yaga will pursue you. 
+ 
+ But do you put your ear to the ground, and when you hear her coming close, 
+ throw the towel, and there will be a wide, wide river. 
+ 
+ And if Baba Yaga crosses that river and begins to catch up with you, 
+ 
+ put your ear to the ground again, and when you hear her coming close, 
+ 
+ throw your comb, and there will be a very thick forest-she will not be able to get through it." 
+  </DonorFunctions>
+  
+ <StruggleVictory>
+ The girl took the towel and the comb and ran. 
+ 
+ The dogs wanted to tear her, but she threw them some bread and they let her pass. 
+ 
+ The gates wanted to bang shut, but she poured some oil on their hinges and they let her pass. 
+ 
+ The birch wanted to lash her eyes, 
+ but she tied it with a ribbon and it let her pass. 
+ 
+ Meanwhile the cat sat at the loom and wove; 
+ 
+ he did not so much weave as tangle everything up. 
+ Baba Yaga came to the window and asked: 
+ "Are you weaving, little niece, are you weaving, my darling?" 
+ 
+ "I am weaving, auntie, I am weaving, my dear," answered the cat in a rough voice. 
+ 
+ Baba Yaga rushed into the hut, saw that the girl had gone, 
+ and took to beating the cat and scolding him for not having scratched out the girl's eyes. 
+ 
+ "I have served you so many years," said the cat, 
+ "and you have not given me even a bone; but she gave me a piece of ham!"
+ 
+ Baba Yaga flung herself on the dogs, the gate, the birch, and the maid, 
+ and began to thrash and scold them all. 
+ 
+ The dogs said to her: "We have served you so long, 
+ and you have not even thrown us a burnt crust; but she gave us bread!" 
+ 
+ The gate said: "I have served you so long, and you have not even poured water on my hinges; 
+ but she poured oil!" 
+ 
+ The birch said: "I have served you so long, 
+ and you have not even tied me with a thread; but she tied me with a ribbon!" 
+ 
+ The maid said: "I have served you so long, 
+ and you have not given me even a rag; but she gave me a kerchief!" 
+ 
+ Baba Yaga the Bony-legged jumped on her mortar, goaded it on with her pestle, 
+ swept away her tracks with a broom, and flew in pursuit of the girl. 
+ 
+ The girl put her ear to the ground and heard Baba Yaga coming quite close. 
+ 
+ She threw her towel -and there was a wide, wide river. 
+ 
+ Baba Yaga came to the river and gnashed her teeth with rage. 
+ 
+ She returned home, took her oxen, and drove them to the river; 
+ 
+ the oxen drank the river clean. Then she set out again in pursuit. 
+ 
+ The girl put her ear to the ground and heard Baba Yaga coming close. 
+ 
+ She threw her comb-and there grew up a deep and terrifying forest. 
+ 
+ Baba Yaga began to gnaw it, but no matter how she tried she could not gnaw through it, 
+ and she turned back.
+ 
+ 
+ </StruggleVictory>
+ 
+ <Return>
+ Meanwhile the old man had come home and asked: "Where is my daughter?" 
+ 
+ "She has gone to her aunt," said the stepmother. 
+ 
+ After a while the girl also came home. 
+ 
+ "Where have you been?" her father asked her. 
+ 
+ "Ah, father," she said, "mother sent me to auntie for a needle and thread to sew me a shirt; 
+ 
+ but the aunt was Baba Yaga and she wanted to eat me." 
+ 
+ "How did you get away, my daughter?" The daughter told him how. 
+ </Return>
+ <PunishmentOfFalseHero>
+ When the old man heard all this he grew angry at his wife and shot her to death;
+ 
+ 
+ and then he and his daughter began to live and prosper. 
+ </PunishmentOfFalseHero>
+ <Epilogue>
+ 
+ I was there and drank mead and beer; 
+ 
+ it ran down my mustache, but it never got into my mouth. 
+ </Epilogue>
+
+</Move>
+</Folktale>
+
+
+
+
+
+ 
+
+<Folktale>
+
+<!-- PG. 45
+    alpha A/a? o F4 F3 connect M N W** 
+    -->
+<Move>
+<Preparation>
+A long time ago there lived a merchant and his wife; they had one child, a girl called Vasilisa. 
+
+One day the mother placed a little doll in the child's hands, she said, 
+
+"My child, I am dying. Take this doll as my blessing. 
+
+Always keep it with you and never show it to anybody. 
+
+If anything bad happens to you, give the doll food and ask her for guidance." 
+
+Shortly afterwards the mother died.
+
+
+The Merchant soon became lonely and decided to marry again. 
+
+He married a widow he thought would be a good mother but both she 
+and her two daughters were envious of Vasilisa's beauty. 
+</Preparation>
+
+<Villainy>
+They gave her heavy outdoor work to do, 
+so she would grow thin and her face turn ugly in the wind and the sun.
+</Villainy>
+
+<ConnectiveIncident>
+Despite this, Vasilisa became more beautiful every day. 
+
+For each day she gave her doll food and asked for advice. 
+
+Having finished eating, the doll would help with the tasks and even bring Vasilisa herbs to prevent sunburn.
+
+
+As the years passed, Vasilisa grew ever more beautiful as her stepmother's hatred of her intensified.
+</ConnectiveIncident>
+
+<Departure>
+Then, whilst Vasilisa's father was away on business, 
+the stepmother moved the family to the edge of a dense birch forest. 
+
+This was not just any birch forest, for in this forest lived the terrifying witch, Baba-Yaga. 
+
+A witch who ate people like others ate chicken.
+
+Every day, the stepmother sent Vasilisa into the forest, but the girl always returned safe and sound with the 
+guidance of her magic doll.
+</Departure>
+
+<DonorFunctions>
+Then one night, the stepmother crept around the house and extinguished all the candles. 
+
+As the last candle failed, she said in a loud voice.
+
+"It's impossible to finish our work in the darkness. 
+
+Somebody must go to Baba-Yaga and ask for a light."
+
+"I'm not going," said the first stepdaughter, who was stitching lace. 
+
+"I can see my needle."
+
+"And I'm not going," said the second stepdaughter, who was knitting stockings, "I can see my needle."
+
+So Vasilisa was thrown out into the dark forbidding forest. 
+
+Despite her fear, she fed her magic doll and asked for its advice.
+
+
+"Don't be afraid, Vasilisa," said the doll. 
+
+"Go to Baba-Yaga and ask her to give you a light."
+
+All that night, Vasilisa walked nervously through the forest holding the doll who guided her path. 
+
+Then suddenly, she saw a horseman rushing by. 
+
+His face and clothes were white and he was riding a white horse. 
+
+As he passed the first light of dawn appeared across the sky. 
+
+Then, another horseman came by. 
+
+His face and clothes were red and he was riding a red horse. 
+
+As he passed the sun began to rise. 
+
+Vasilisa had never seen such strange men and she was very surprised.
+
+She walked all day, until at last she came to Baba-Yaga's hut, 
+
+which stood forbidding on its large chicken legs. 
+
+A fence made of human bones surrounded the hut. 
+
+It was crowned with human skulls. 
+
+The gate had a sharp set of teeth that served as a lock. 
+
+Vasilisa was terribly afraid.
+
+
+Suddenly, another horseman galloped by. 
+
+His face and clothes were black and he was riding a black horse. 
+
+He rode through the gates and disappeared. 
+
+As he passed, night descended.
+
+As the sky darkened the eyes of the skulls began to glow. 
+
+Their light illuminated the forest. 
+
+Vasilisa trembled, she wanted to run but her legs would not move. 
+
+Almost immediately she heard a hideous noise. 
+
+The earth shook, the trees groaned and there was Baba-Yaga, riding in her mortar. 
+
+She stopped and sniffed the air.
+
+"I smell a human!" she cried. "Who is here?"
+
+Vasilisa stepped forward, trembling with fear. 
+
+She said, "I am, Vasilisa. My stepmother sent me to you to ask for a light."
+
+"I know of her." 
+
+Baba-Yaga replied. 
+
+"Stay with me for a while. If you work well, I will give you light. 
+
+If you do not, I will cook you and eat you."
+
+Baba-Yaga commanded the gates to open and rode in. 
+
+Vasilisa followed and the gates closed fast behind her.
+
+As they entered the hut, Baba-Yaga ordered Vasilisa to bring her what was on the stove. 
+
+There was enough food to feed ten men; 
+
+then from the cupboard she collected kvas, mead, beer and wine. 
+
+Baba-Yaga ate and drank everything. 
+
+She left Vasilisa nothing but a crust of bread.
+
+"I'm tired," Baba-Yaga said. 
+
+"Tomorrow, Vasilisa, you must clean the yard, sweep the hut, cook the supper and wash the linen."
+
+"Then," she added, 
+
+"You must go to the corn bin and separate seed by seed the mildewed corn from the good corn, 
+and mind that you remove all the black bits. 
+
+If you don't complete these tasks I will eat you."
+
+Soon Baba-Yaga started snoring, her long nose rattled against the roof of the hut. 
+
+Vasilisa took her doll out of her pocket, gave it a crust of bread and said, 
+
+"Please help me. 
+
+Baba-Yaga has given me an impossible task to do and if I fail she will eat me."
+
+The doll replied, 
+
+"Don't be afraid, Vasilisa, eat your supper and go to bed. 
+
+Mornings are wiser than evenings."
+
+Although Vasilisa woke early the next morning, Baba-Yaga was already up. 
+
+Vasilisa went to the corn bin and found the doll picking out the last black bits. 
+
+The other tasks were also fulfilled. 
+
+The doll said, "All you have to do now is prepare the supper and after that you can rest." 
+
+Vasilisa thanked the doll and went to prepare supper. 
+
+She cooked the food, laid the table and waited.
+
+
+As the skulls' eyes began to shine, the trees groaned, the earth trembled, and there was Baba-Yaga.
+
+"Have you done what I told you?" she asked Vasilisa.
+
+"See for yourself," replied the girl.
+
+Baba-Yaga was very upset, for she wanted to eat the girl but the tasks were all completed. 
+
+Hiding her anger, she said, "Very good," and then cried loudly, 
+
+"My faithful servants grind the wheat!"
+
+From nowhere three pairs of hands appeared. 
+
+They took the wheat and vanished.
+
+Baba-Yaga ate the supper and said to Vasilisa, 
+
+"Tomorrow you must do the same tasks 
+and then you must go to the store room 
+and sort out the dirt from the poppy seeds."
+
+
+The next morning Baba-Yaga again rode off in her mortar. 
+
+Vasilisa, with the help of her doll, finished the tasks. 
+
+In the evening the old woman came back and checked everything over. 
+
+Three pairs of hands appeared. 
+
+They took the bin of poppy seeds and vanished.
+
+Baba-Yaga sat down to eat.
+"Why," she said, "do you sit there so quiet and still?"
+"I'm afraid to speak," said Vasilisa, 
+
+"would you mind if I asked you some questions?"
+"Ask if you want," said Baba-Yaga, 
+"but remember that not every question has a good answer."
+
+
+Vasilisa hesitated, "It's just that on my way here I saw a white horseman. Who was he?"
+
+"That was my Bright Day," answered Baba-Yaga.
+Vasilisa continued, "Then I saw a red horseman. Who was he?"
+"That was my Red Sun," answered Baba-Yaga.
+"And then a black horseman overtook me whilst I was standing outside your gate. Who was he?"
+"That was my Black Midnight," answered Baba-Yaga. 
+
+"These horsemen are my faithful servants. 
+Have you further questions?"
+
+Vasilisa remembered the three pairs of hands but remained quiet.
+"Now I have a question for you. 
+How have you managed to carry out all the work so quickly?"
+Vasilisa replied, "My mother's blessing helped me."
+"I knew it," said Baba-Yaga. 
+"You'd better be gone. 
+I will not have people with blessings in my home."
+With that, the old woman pushed Vasilisa out of the hut and through the gate.
+
+Then she took one of the skulls, stuck it on the end of a stick and gave it to the girl, saying: 
+
+"Here's a light for your stepmother and her daughters. 
+
+That's what you came here for, isn't it?"
+
+
+She walked all day and by the evening she reached her home. 
+
+As she approached the gates she was about to throw away the skull, 
+
+but suddenly she heard a muffled voice say: 
+
+"You must keep me, your stepmother and her daughters have need of me."
+
+The girl carried the skull into the house. 
+
+As she entered, the skull fixed its eyes on the stepmother and her two daughters. 
+
+Its eyes burnt them like fire. 
+
+They tried to hide, but the piercing eyes followed them and never let them out of their sight. 
+
+By morning nothing was left of the three women except three heaps of ash on the floor.
+
+Vasilisa was unharmed.
+
+
+She buried the skull in the garden and went to find shelter in the nearest town. 
+
+Here she lodged with an old woman.
+
+One day the old woman gave Vasilisa some flax. 
+
+With it Vasilisa spun the most beautiful thread, so fine it was like hair. 
+
+Then she weaved the thread into the most exquisite cloth. 
+
+It was brilliant white, soft and so beautiful. 
+
+Vasilisa gave it to the old woman and said: 
+
+"Grandmother, you have been so kind to me, sell this cloth and keep the money."
+
+The old woman looked at it and said, 
+
+"My child, this is too fine to sell. 
+
+I am going to take it to the Tsar."
+
+So she brought it to the Tsar as a gift. 
+
+The Tsar thanked the old woman and gave her many presents before sending her home.
+
+
+Impressed with the beautiful cloth, the Tsar tried to find someone who could make shirts from it. 
+
+However all the tailors declined the work, as the cloth was too fine for them to handle. 
+
+In the end the Tsar called the old woman and said, "You must also know how to sew the cloth as you made it."
+
+The old woman replied, "No your Majesty. 
+
+It was not my work. 
+
+It was done by a girl I took in."
+
+
+So the Tsar asked the old woman to see if Vasilisa would make the garments. 
+
+Vasilisa made the shirts and the old woman took them to the Tsar.
+
+
+As she waited for the old woman to return, one of the Tsar's servants entered. 
+
+He said loudly, 
+
+"His Majesty wishes to see the needlewoman who has made his wonderful clothes." 
+
+So Vasilisa went to the palace.
+
+</DonorFunctions>
+<Wedding>
+Vasilisa and the Tsar were captivated by each other and eventually they married.
+
+
+When Vasilisa's father returned, they invited both him and the old woman to come and live at the palace. 
+
+Also at the palace was the little doll, for Vasilisa carried it around in her pocket until the day she died.
+</Wedding>
+</Move>
+</Folktale>
+
+
+
+
+
+<!--
+  A_1 B C depart D1_1 E1_1 F1  d2_7 E2_7 F2_9 G_4      K_1 return 
+    -->
+<Folktale>
+<Move>
+<Preparation>
+Once upon a time a man and a woman lived with their daughter and small son.
+"Dearest daughter," said the mother, "we are going to work. Look after your brother! 
+Don't go out of the yard, be a good girl, and we'll buy you a handkerchief."
+The father and mother went off to work, and the daughter soon enough forgot what they had told her. 
+She put her little brother on the grass under a window and ran into the yard, 
+where she played and got completely carried away having fun.
+</Preparation>
+<Villainy>
+In swooped the swan-geese, snatched up the little boy, and flew away with him.
+
+When the girl came back inside, her brother was missing! "Oh no!" she cried. 
+She dashed here and there, but there was no sign of him. 
+She called for him, cried, and wailed how angry mother and father would be, 
+but her brother did not answer.
+</Villainy>
+<ConsentToCounteraction>
+Then she ran out to the edge of the fields, and just managed to catch sight 
+of the swan-geese rushing into the distance and disappearing into the forest. 
+
+She suspected that they were taking her brother off with them. 
+Swan-geese had long held a bad reputation for being naughty and carrying away little children.
+</ConsentToCounteraction>
+<Departure>
+The girl rushed to catch up with them. She ran and ran, until she saw an oven.
+</Departure>
+<DonorFunctions>
+"Little oven, little oven, tell me, where did the swan-geese fly to?"
+"Eat up some of my rye buns, and I will tell you."
+"I'm not going to eat your rye buns! I don't even eat the wheat ones we have at home."
+The oven did not tell her. The girl ran further, until she came to an apple tree.
+"Apple tree, apple tree, tell me, where did the swan-geese fly to?"
+"Eat some of my wild apples, and I will tell you."
+"I'm not going to eat your wild apples! I don't even eat the apples from our garden at home."
+The apple tree did not tell her. So the girl ran further, 
+until she came to a river of milk flowing in banks of pudding.
+"River of milk, banks of pudding, where did the swan-geese fly to?"
+"Eat up some of my humble pudding with milk, and I will tell you."
+"I'm not going to eat your simple pudding with milk! 
+I don't even eat the pudding we have at home."
+</DonorFunctions>
+<Transference>
+For a long time she ran through clearings and through forest. 
+The day drew toward evening, and there was nothing to do--she had to go home. 
+But when she turned around, she suddenly saw a little cabin with one little window.
+In the cabin was the old witch Baba Yaga, spinning flax. 
+And on a little bench sat her brother, playing with a silver apple.
+The girl ran into the cabin.
+</Transference>
+<TaskSolution>
+"Hello, old woman!"
+"Hello, maiden. Why have you burst into my house like this?"
+"I came through the forest and through the swamp, and my dress is torn to shreds. 
+I would like to warm up a little here."
+"Sit over there and spin some flax."
+Baba Yaga gave her a spindle and left her alone. 
+The girl was spinning away, when suddenly a mouse darted out from under the stove and said to her, 
+"Maiden, maiden, give me a bit of porridge and I will tell you things you need to know."
+</TaskSolution>
+<DonorFunctions>
+The girl gave her a bit of porridge, and the mouse told her, 
+"Baba Yaga has gone to the bath house to stoke the fire. 
+She is going to steam you, put you in the oven, roast you, eat you up, 
+and then ride away on two of your bones."
+The girl sat in a state of shock, crying, but the mouse spoke to her again. 
+"Don't wait! Pick up your brother, run, and I will spin the flax in your place."
+</DonorFunctions>
+
+<LiquidationOfLack>
+The girl snatched up her brother and set out running. </LiquidationOfLack>
+<TaskSolution>
+After she was gone, Baba Yaga went up to the window and asked, "Maiden, are you spinning?"
+"I'm spinning, old woman," answered the mouse.
+The old witch, satisfied, went back to the bath house. 
+</TaskSolution>
+<PursuitRescue>
+When she had gotten the fire hot enough, she went to get the girl. 
+But in the cabin there was nobody. 
+She cried, "Swan-geese! After them! 
+The sister has stolen her brother and run away!"
+The girl, her brother in her arms, ran up to the river of milk. 
+She saw that the swan-geese were flying after her.
+"Mother river, hide me!"
+"Eat up some of my simple pudding."
+The girl ate and thanked the river, and the river sheltered her under its banks of pudding. 
+The swan-geese did not see her, and flew past.
+The girl set out running again, her brother in her arms.
+But the swan-geese came back, and flew in her direction, there--there! 
+They saw them! What to do? Trouble! But there stood the apple tree.
+"Mother apple tree, hide me!"
+"Eat some of my wild apples."
+The girl quickly ate one and thanked the tree, and the tree hid her with its branches, 
+sheltered her with its leaves.
+The swan-geese didn't see them, and flew past.
+The girl ran again. She ran and ran, until she was almost exhausted. 
+The swan-geese saw her again, and began to cackle. 
+They flew in on her, and beat their wings 
+as if at any moment they would snatch her brother from her arms.
+The girl ran up to the oven:
+"Mother oven, hide me!"
+"Eat some of my rye buns."
+
+The girl quickly popped a bun into her mouth and settled herself and her brother into the oven.
+
+The swan-geese flew and flew, called and called, 
+but finally they gave up and flew away, back to the old woman.
+</PursuitRescue>
+<Return>
+The girl thanked the oven and, together with her brother, ran all the way home.
+And just after they got there, their father and mother returned.
+</Return>
+</Move>
+</Folktale>
+
+
+
+
+
+ 
+ <!-- 
+   A_1 B_4 C depart           H_1  I_1 K_4 return        W
+     -->
+<Folktale>
+<Move>
+<Preparation>
+ 
+ A dragon appeared near Kiev; 
+ 
+ he took heavy tribute from the people-a lovely maiden from every house, whom he then devoured. 
+ 
+ Finally, it was the fate of the tsar's daughter to go to the dragon. 
+ </Preparation>
+ <Villainy>
+ He seized her and dragged her to his lair but did not devour her, because she was a beauty. 
+ 
+ Instead, he took her to wife.
+ 
+ Whenever he went out, he boarded up his house to prevent the princess from escaping. 
+ </Villainy>
+ 
+ <ConnectiveIncident>
+ The princess had a little dog that had followed her to the dragon's lair. 
+ 
+ The princess often wrote to her father and mother. 
+ 
+ She would attach her letter to the dog's neck, 
+   and the dog would take it to them and even bring back the answer. 
+ 
+ One day the tsar and tsarina wrote to their daughter, 
+   asking her to find out who in this world was stronger than the dragon. 
+   
+   The princess became kindlier toward the dragon and began to question him. 
+   
+   For a long time he did not answer, 
+   but one day he said  inadvertently that a tanner in the city of Kiev was stronger than he.
+   
+ When the princess heard this, 
+ she wrote her father to find Nikita the Tanner in Kiev 
+ and to send him to deliver her from captivity. 
+ </ConnectiveIncident>
+ <ConsentToCounteraction>
+ Upon receiving this letter, the tsar went in person 
+ 
+ to beg Nikita the Tanner to free his land from the wicked dragon and rescue the princess. 
+ 
+ At that moment Nikita was currying hides and held twelve hides in his hands; 
+ 
+ when he saw that the tsar in person had come to see him, 
+ he began to tremble with fear, 
+ his hands shook, and he tore the twelve hides. 
+ 
+ But no matter how much the tsar 
+ and tsarina entreated him, 
+ he refused to go forth against the dragon. 
+ 
+ So they gathered together five thousand little 
+ children and sent them to implore him, 
+ hoping that their tears would move him to pity. 
+ 
+ The little children came to Nikita and begged him with tears to go fight the dragon. 
+ 
+ Nikita himself began to shed tears when he saw theirs. 
+ 
+ He took twelve thousand pounds of hemp, tarred it with pitch, 
+ and wound it around himself so that the dragon could not devour him, 
+ then went forth to give him battle. 
+ </ConsentToCounteraction>
+ <Departure>
+ Nikita came to the dragon's lair but the dragon locked himself in. 
+ </Departure>
+ 
+ <StruggleVictory>
+ "Better come out into the open field," said 
+ Nikita, "or I will destroy your lair together with you!" And he began to break down the door. The dragon, seeing 
+ that he could not avoid trouble, went out to fight in the open field. Nikita fought him for a long time or a 
+ short time; in any event, he defeated him. Then the dragon began to implore Nikita: "Do not put me to death, 
+ Nikita the Tanner; no one in the world is stronger than you and I. Let us divide all the earth, all the world, 
+ into equal parts; you shall live in one half, I in the other." "Very well," said Nikita, "let us draw a boundary 
+ line." He made a plow that weighed twelve thousand pounds, harnessed the dragon to it, and the dragon began to 
+ plow a boundary from Kiev; he plowed a furrow from Kiev to the Caspian Sea. "Now," said the dragon, "we have 
+ divided the whole earth." "We have divided the earth," said Nikita, "now let us divide the sea; else you will 
+ say that your water has been taken." The dragon crawled to the middle of the sea; Nikita killed him and drowned 
+ him in the sea. 
+ </StruggleVictory>
+ <Return>
+ That furrow can be seen to this very day; it is fourteen feet high. Around it the fields are plowed, but the 
+ furrow is intact; and those who do not know what it is, call it the rampart. Nikita, having done his heroic 
+ deed, would not accept any reward, but returned to currying hides. 
+ </Return>
+</Move>
+</Folktale>
+
+
+
+
+
+<!-- 
+  A_1 B_3 C depart D1_2 E1_2 F1_2 G_2 D2_1 E2_1 F2_2 G_5 o L HMPr J INRs K return PrH RsI L Q Ex T U W X MOVE
+   a_1 B_4 C depart D1_4 E1_4 F1_6 G_5     o L HMPr J INRs K return PrH RsI L Q Ex T U W X MOVE
+   A_7  C depart    G_1     o L HMPr J INRs K return PrH RsI L Q Ex T U W X 
+    -->
+<Folktale>
+<Move>
+<Preparation>
+ Once there was a king who had an only son. 
+ 
+ When the prince was small, his nurses and governesses sang lullabies to him. 
+ 
+ "Prince Ivan, when you grow up, you will find your bride," they would sing. 
+ </Preparation>
+ <Lack>
+ "Beyond thrice nine lands, in the thrice tenth kingdom, 
+ Vasilisa Kirbitievna sits in a tower, and her marrow flows from bone to bone." 
+ </Lack>
+ <Departure>
+ When the prince had passed his fifteenth year, he began to ask the king's leave to set out in search of his bride. 
+ 
+ "Whither will you go?"
+ the father asked. 
+ 
+ "You are still too young." "No, father, when I was little, 
+ my nurses and governesses sang lullabies to me and told me where my bride lives; 
+ and now I wish to go and find her." 
+ 
+ The father gave the prince his blessing and sent word to all the kingdoms that his son, Prince Ivan,
+ was setting out to find his bride. 
+ </Departure>
+ 
+<DonorFunctions>
+ One day the prince came to a certain town, put up his horse to 
+ be cared for, and went to walk in the streets. He came to 
+ the square and saw that a man was being flogged with a whip. 
+ "Why do you whip him?" he asked. "Because he borrowed ten 
+ thousand rubles from a prominent merchant," they told him, 
+ "and did not pay them back at the agreed time. As for the 
+ man who redeems him, his wife will be carried off by Koshchey 
+ the Deathless." The prince thought and thought and went away. 
+ He walked through the town, then came to the square again, and 
+ saw that the man was still being flogged; Prince Ivan took pity 
+ on him and decided to redeem him. Since I have no wife, he 
+ thought, no one can be taken from me. He paid the ten thousand 
+ rubles and went home. Suddenly the man whom he had redeemed ran 
+ after him, crying: "Thank you, Prince Ivan! If you had not 
+ redeemed me, you would never have won your bride. But now I will 
+ help you. Buy me a horse and a saddle at once." The prince bought
+ him a horse and saddle and asked: "What is your name?" "My name is 
+ Bulat the Brave," the man said. 
+ They mounted their horses and set out. 
+ </DonorFunctions>
+ 
+ <TaskSolution>
+ As soon as they arrived in the thrice tenth kingdom, Bulat said: 
+ 
+ "Well, Prince Ivan, order chickens, ducks, and geese to be bought and roasted, 
+ so that there will be plenty of everything. 
+ 
+ And I will get your bride. 
+ 
+ But mind you: 
+ 
+ every time I come to you, cut off the right wing of a fowl and serve it to me on a plate." 
+ 
+ Bulat the Brave went straight to the lofty tower where Vasilisa Kirbitievna was sitting, gently 
+ threw a stone, and broke the gilded top of the tower. 
+ 
+ He ran to Prince Ivan and said: 
+ 
+ "Why are you sleeping? Give me a chicken." 
+ 
+ The prince cut off the right wing of a chicken and handed it to him on a plate. 
+ 
+ Bulat took the plate, ran to the tower, and cried: 
+ 
+"Good day, Vasilisa Kirbitievna! Prince Ivan sends you his 
+greetings and has asked me to give you this chicken." The maiden 
+was frightened and sat in silence. But he answered himself in 
+her stead: "Good day, Bulat the Brave! Is Prince Ivan well? 
+Thank God, he is well. And why do you stand like that, Bulat the 
+Brave? Take the key, open the cupboard, drink a glass of vodka, 
+and God speed you. 
+ 
+Then Bulat ran to Prince Ivan. 
+ 
+"Why are you sitting?" he said. 
+"Give me a duck." The prince cut off the right wing of a duck and 
+handed it to him on a plate. Bulat took the plate and carried it 
+to the tower. "Good day, Vasilisa Kirbitievna! Prince Ivan sends 
+you his greetings and has asked me to give you this duck." She
+sat in silence, and he answered himself in her stead: "Good day,
+Bulat the Brave! Is the prince well? Thank God, he is well. And 
+why do you stand like that, Bulat the Brave? Take the key, open
+the cupboard, drink a glass of vodka, and God speed you." Then 
+Bulat ran home and again said to Prince Ivan: "Why are you 
+sitting? Give me a goose." 
+
+
+The prince cut off the right wing of a goose and handed it to him on a plate. 
+
+Bulat the Brave took it to the tower. 
+
+"Good day, Vasilisa Kirbitievna! Prince Ivan sends his greetings and has asked me to give you this goose."
+
+Vasilisa Kirbitievna straightway took a key, opened a cupboard, and gave him a glass of vodka. 
+
+</TaskSolution>
+<Wedding>
+Bulat did not take the glass, but seized the maiden by her right hand, drew her out of the tower,
+and seated her on Prince Ivan's horse, and the good youths gall.
+</Wedding>
+</Move>
+</Folktale>
+
+
+
+
+
+<!-- 
+Dpre_6 Epre_6 Fpre_1 A_11 H_1 I_1 K_8 W X MOVE
+A_1 B_3 C depart H_1 I_1 K_4 W X
+   -->
+<Folktale>
+<Move>
+<Preparation>
+ In A certain kingdom in a certain land there lived a king who had three sons. 
+ 
+ One day they said to him: 
+ 
+ "Father, our gracious sovereign, give us your blessing; 
+ 
+ we wish to go hunting." 
+ 
+ The father gave them his blessing and they set out in different directions. 
+ </Preparation>
+ <Departure>
+ The youngest son rode and rode and lost his way; 
+ </Departure>
+ <DonorFunctions>
+ he came to a clearing, and there lay a dead horse,
+ around which were gathered beasts of many kinds, birds, and reptiles. 
+ A falcon rose, flew up to the prince, perched on his shoulder, and said: 
+ "Prince Ivan, divide that horse among us; 
+ it has lain here for thirty years, 
+ and we have been quarreling ever since, 
+ unable to find a way of sharing it." 
+ 
+ The prince climbed down from his good steed and divided the carcass: 
+ he gave the bones to the beasts, 
+ the flesh to the birds, 
+ the skin to the reptiles, 
+ and the head to the ants. 
+ 
+ "Thank you, Prince Ivan," 
+ 
+ said the falcon. 
+ 
+ "For your kindness you shall be able to turn into a bright falcon or an ant whenever you wish." 
+ </DonorFunctions>
+ 
+ 
+ 
+ <Transfiguration>
+ Prince Ivan struck the damp earth, 
+ turned into a bright falcon, 
+ soared up into the air, 
+ and flew to the thrice tenth kingdom. 
+ </Transfiguration>
+ <Villainy>
+ More than half of that kingdom had been swallowed into a crystal mountain. 
+ </Villainy>
+ 
+ <ConsentToCounteraction>
+ The prince flew straight into the royal palace, 
+ turned into a goodly youth, and asked the palace guards: 
+ 
+ "Will your king take me into his service?" 
+ "Why should he not take such a goodly youth?" they answered. 
+ 
+ Thus he entered the service of that king and lived in his palace for one week, 
+ then a second, 
+ then a third. 
+ </ConsentToCounteraction>
+ <Departure>
+ The king's daughter asked her father: 
+ "Father, my sovereign, 
+ give me leave to take a ride with Prince Ivan to the crystal mountain." 
+ 
+ The king gave her leave. 
+ 
+ They mounted good steeds and set out. 
+ </Departure>
+ </Move>
+ <Move>
+ <Villainy>
+ When they approached the crystal mountain, 
+ a golden goat jumped suddenly out from nowhere. 
+ The prince chased it; 
+ 
+ he galloped and galloped, 
+ but could not catch the goat, 
+ and when he returned the princess had vanished. 
+ 
+ What was he to do? 
+ 
+ How could he dare to appear before the king? 
+ </Villainy> <!--Lack -->
+ <ConsentToCounterAction>
+ He disguised himself as a very old man, 
+ so that he would be unrecognizable, 
+ came to the palace, 
+ and said to the king: 
+ 
+ "Your Majesty, 
+ hire me as your herdsman." 
+ 
+ "Very well," 
+ said the king, 
+ "be my herdsman. 
+ 
+ When the three-headed dragon comes to your herd, 
+ give him three cows; 
+ 
+ when the six-headed dragon comes, 
+ give him six cows; 
+ 
+ and when the twelve-headed dragon comes, 
+ count off twelve cows." 
+ </ConsentToCounterAction>
+ 
+  <StruggleVictory>
+ Prince Ivan drove his herd over mountains and valleys. 
+ Suddenly the three-headed dragon came flying from a lake and said: 
+ 
+ "Ah, Prince Ivan, what kind of work are you engaged in? 
+ A goodly youth like you should be vying in combat, 
+ not tending cattle. 
+ Well, let me have three cows!" 
+ 
+ "Won't that be too much?" asked the prince. 
+ 
+ "I myself eat only one duck a day, 
+ and you want three cows. 
+ But you won't get any!" 
+ 
+ The dragon flew into a rage, 
+ and instead of three cows, 
+ seized six. 
+ 
+ Prince Ivan straightway turned into a bright falcon, 
+ cut off all the three heads of the dragon, 
+ and drove the cattle home. 
+ 
+ "Well, grandfather," 
+ asked the king, 
+ "has the three-headed dragon come? 
+ Did you give him three cows?" 
+ "No, Your Majesty," 
+ replied Prince Ivan, 
+ "I did not give him any." 
+  </StruggleVictory>
+ 
+ <StruggleVictory>
+ Next day the prince drove his herd over mountains and valleys, 
+ and the six-headed dragon came from the lake and demanded six cows. 
+ "Ah, you gluttonous monster," 
+ said the prince, 
+ "I myself eat only one duck a day, 
+ and see what you demand! I won't give you any!" 
+ The dragon flew into a rage and instead of six, seized twelve cows; 
+ but the prince turned into a bright falcon, 
+ fell upon the dragon, and cut off his six heads. 
+ 
+ He drove the herd,home and the king asked him: 
+ "Well, grandfather, has the six-headed dragon come? 
+ Has my herd grown much smaller?" 
+ "Come he did, but he took nothing," 
+ answered the prince. 
+ </StruggleVictory>
+ 
+ <StruggleVictory>
+ Late at night Prince Ivan turned into an ant 
+  and crawled into the crystal mountain through a little crack. 
+ Lo and behold, the princess was in the crystal mountain. 
+ "Good evening!" said Prince Ivan. 
+ "How did you get here?" 
+ "The twelve-headed dragon carried me off," said the princess. 
+ "He lives in father's lake and has a coffer in his side. 
+ In this coffer is a hare, 
+ in this hare is a duck, 
+ in this duck is an egg, 
+ and in this egg is a seed. 
+ 
+ If you slay the dragon and get that seed, 
+ it will be possible to destroy the crystal mountain and rescue me." 
+ 
+ Prince Ivan crawled out of the mountain, 
+ turned again into a herdsman, 
+ and drove his herd. 
+</StruggleVictory>
+ <StruggleVictory> 
+ Suddenly the twelve-headed dragon flew up to him and said: 
+ "Ah, Prince Ivan, 
+ you are not doing what you should; 
+ a goodly youth like you should be vying in combat, 
+ not tending a herd. Well, count off twelve cows for me!" 
+ "That will be too much for you!" said the prince. 
+ "I myself eat only one duck a day, and see what you demand!" 
+ They began to fight, and after a long struggle or a short struggle, 
+ Prince Ivan defeated the twelve-headed dragon, 
+ slashed open his trunk, and found the coffer in his right side. 
+ In the coffer he found a hare, 
+ in the hare a duck, 
+ in the duck an egg, 
+ in the egg a seed. 
+ He took the seed, 
+ set it alight, 
+ and brought it to the crystal mountain, 
+ which soon melted away. 
+</StruggleVictory>
+ <Wedding>
+ Prince Ivan led the princess to her father, 
+ who was overjoyed and said to the prince: 
+ "Be my son-in-law!" 
+ The wedding was held at once. 
+ </Wedding>
+ <Epilogue>
+ I was at that wedding too. I drank beer and mead; they flowed down my beard but did not go into my mouth. 
+ </Epilogue>
+ 
+</Move>
+</Folktale>
+
+
+
+
+
+
+<!-- 
+   A_5 B_1 C depart              K_7 return          MOVE
+   a_6  C depart D1_1 E1_1 F1_5 G_5   F2_1 G_2     I_5  return          MOVE 
+   A_1  C depart d1_7 E1_7 F1_9 G_1     o L M  N K     Q Ex  U W
+    -->
+<Folktale>
+<Move>
+
+
+<Preparation>Once upon a time there lived a king and queen. They had three sons, two of them with their wits about them, but 
+the third a simpleton. Now the King had a deer-park in which were quantities of wild animals of different kinds. 
+</Preparation>
+<Villainy>
+Into that park there used to come a huge beast—Norka was its name—and do fearful mischief, devouring some of the 
+animals every night.
+</Villainy>
+
+<ConsentToCounterAction>
+The King did all he could, but he was unable to destroy it. So at last he called his sons 
+together and said: “Whoever will destroy the Norka, to him will I give the half of my kingdom.”
+</ConsentToCounterAction>
+<AlienForms>
+Well, the eldest son undertook the task. As soon as it was night, he took his weapons and set out. 
+
+
+But before he reached the park, he went into a tavern, and there he spent the whole night in revelry.
+
+When he came to his senses it was too late; the day had already dawned. 
+
+
+He felt himself disgraced in the eyes of his father, but there was no help for it. 
+</AlienForms>
+<AlienForms>
+The next day the second son went, and did just the same. 
+
+Their father scolded them both soundly, and there was an end of it.
+</AlienForms>
+
+<Departure>
+Well, on the third day the youngest son undertook the task. 
+
+They all laughed him to scorn, because he was so stupid, feeling sure he wouldn’t do anything. 
+
+But he took his arms, and went straight into the park, 
+and sat down on the grass in such a position that, the moment he went asleep, his weapons would prick him, 
+and he would awake.
+</Departure>
+
+
+<StruggleVictory>
+
+Presently the midnight hour sounded. 
+
+The earth began to shake, and the Norka came rushing up, and burst right through the fence into the park, 
+so huge was it. 
+
+The Prince pulled himself together, leapt to his feet, crossed himself, and went straight at the beast. 
+
+It fled back, and the Prince ran after it. 
+
+But he soon saw that he couldn’t catch it on foot, so he hastened to the stable, 
+laid his hands on the best horse there, and set off in pursuit. 
+
+Presently he came up with the beast, and they began a fight. 
+
+They fought and fought; 
+
+the Prince gave the beast three wounds. 
+
+At last they were both utterly exhausted, so they lay down to take a short rest. 
+
+
+
+
+
+But the moment the Prince closed his eyes, up jumped the Beast and took to flight. 
+
+The Prince’s horse awoke him; up he jumped in a moment, and set off again in pursuit, caught up the Beast, 
+and again began fighting with it. 
+
+
+
+Again the Prince gave the Beast three wounds, and then he and the Beast lay down again to rest. 
+
+Thereupon away fled the Beast as before. 
+
+The Prince caught it up, and again gave it three wounds. 
+
+But all of a sudden, just as the Prince began chasing it for the fourth time, 
+the Beast fled to a great white stone, tilted it up, and escaped into the other 
+world, crying out to the Prince: 
+
+“Then only will you overcome me, when you enter here.”
+
+</StruggleVictory>
+
+
+<Return>
+
+The Prince went home, told his father all that had happened, 
+and asked him to have a leather rope plaited, long enough to reach to the other world. 
+</Return>
+
+</Move>
+<Move>
+<Departure>
+His father ordered this to be done. When the rope was made, the Prince called for his brothers, 
+and he and they, having taken servants with them, 
+and everything that was needed for a whole year, 
+set out for the place where the Beast had disappeared under the stone. 
+
+</Departure>
+
+<TaskSolution>
+When they got there, they built a palace on the spot, 
+and lived in it for some time. But when everything was ready, 
+the youngest brother said to the others: 
+
+“Now, brothers, who is going to lift this stone?”
+
+
+
+
+Neither of them could so much as stir it, but as soon as he touched it, 
+away it flew to a distance, though it was ever so big—big as a hill. 
+
+
+And when he had flung the stone aside, he spoke a second time to his brothers, saying:
+
+“Who is going into the other world, to overcome the Norka?”
+
+Neither of them offered to do so. 
+
+Then he laughed at them for being such cowards, and said:
+
+“Well, brothers, farewell! Lower me into the other world, and don’t go away from here, 
+but as soon as the cord is jerked, pull it up.”
+
+His brothers lowered him accordingly, 
+and when he had  reached the other world, underneath the earth, he went on his way. 
+
+
+</TaskSolution>
+
+<Filler>
+
+He walked and walked. 
+
+Presently he espied a horse with rich trappings, and it said to him:
+
+“Hail, Prince Ivan! Long have I awaited thee!”
+
+He mounted the horse and rode on—rode and rode, until he saw standing before him, a palace made of copper. 
+
+He entered the courtyard, tied up his horse, and went indoors. 
+
+In one of the rooms a dinner was laid out. 
+
+He sat down and dined, and then went into a bedroom. 
+
+There he found a bed, on which he lay down to rest.
+
+
+
+Presently there came in a lady, more beautiful than can be imagined anywhere but in a skazka, who said:
+
+“Thou who art in my house, name thyself! 
+
+
+
+
+If thou art an old man, thou shall be my father; if a middle-aged man, my brother; 
+
+but if a young man, thou shalt be my husband dear. 
+
+And if thou art a woman, and an old one, thou shalt be my grandmother; 
+
+if middle-aged, my mother; 
+
+and if a girl, thou shalt be my own sister.”
+
+
+
+Thereupon he came forth. And when she saw him, she was delighted with him, and said:
+
+“Wherefore, O Prince Ivan—my husband dear shalt thou be!—wherefore hast thou come hither?”
+
+
+
+Then he told her all that had happened, and she said:
+
+“That beast which thou wishest to overcome is my brother. 
+
+He is staying just now with my second sister, who lives not far from here in a silver palace. 
+
+I bound up three of the wounds which thou didst give him.”
+
+
+
+
+
+
+Well, after this they drank, and enjoyed themselves, and held sweet converse together, 
+and then the prince took leave of her, and went on to the second sister, the one who lived in the silver palace, 
+and with her also he stayed awhile. 
+
+She told him that her brother Norka was then at her youngest sister’s. 
+
+So he went on to the youngest sister, who lived in a golden palace. 
+
+She told him that her brother was at that time asleep on the blue sea, and she gave him a sword of steel 
+and a draught of the Water of Strength, 
+and she told him to cut off her brother’s head at a single stroke. 
+
+And when he had heard these things, he went his way.
+
+And when the Prince came to the blue sea, he looked—there slept Norka on a stone in the middle of the sea; 
+
+and when it snored, the water was agitated for seven versts around. 
+
+The Prince crossed himself, went up to it and smote it on the head with his sword. 
+
+The head jumped off, saying the while, “Well, I’m done for now!” and rolled far away into the sea.
+
+
+
+
+
+After killing the Beast, the Prince went back again, picking up all the three sisters by the way, 
+with the intention of taking them out into the upper world: 
+
+for they all loved him and would not be separated from him. 
+
+Each of them turned her palace into an egg—for they were all enchantresses 
+— and they taught him how to turn the eggs into palaces, 
+and back again, and they handed over the eggs to him. 
+
+And then they all went to the place from which they had to be hoisted into the upper world. 
+
+And when they came to where the rope was, the Prince took hold of it and made the maidens fast to it. 
+
+Then he jerked away at the rope, and his brothers began to haul it up. 
+And when they had hauled it up, and had set eyes on the wondrous maidens, they went aside and said:
+
+“Let’s lower the rope, pull our brother part of the way up, and then cut the rope. 
+Perhaps he’ll be killed; but then if he isn’t, he’ll never give us these beauties as wives.”
+
+So when they had agreed on this, they lowered the rope. But their brother was no fool; 
+he guessed what they were at, so he fastened the rope to a stone, and then gave it a pull. 
+
+His brothers hoisted the stone to a great height, and then cut the rope. 
+Down fell the stone and broke in pieces; the Prince poured forth tears and went away. 
+
+Well, he walked and walked. 
+Presently a storm arose; the lightning flashed, the thunder roared, the rain fell in torrents. 
+
+He went up to a tree in order to take shelter under it, 
+and on that tree he saw some young birds which were being thoroughly drenched. 
+
+So he took off his coat and covered them over with it, and he himself sat down under the tree. 
+
+Presently there came flying a bird—such a big one, that the light was blotted out by it. 
+
+It had been dark there before, but now it became darker still. 
+
+Now this was the mother of those small birds which the Prince had covered up. 
+
+And when the bird had come flying up, she perceived that her little ones were covered over, and she said, 
+“Who has wrapped up my nestlings?” and presently, seeing the Prince, she added: 
+
+“Didst thou do that? Thanks! In return, ask of me any thing thou desirest. 
+
+I will do anything for thee.”
+
+“Then carry me into the other world,” he replied.
+
+“Make me a large zasyek[89] with a partition in the middle,” she said; 
+
+“catch all sorts of game, and put them into one half of it, 
+and into the other half pour water; so that there may be meat and drink for me.”
+
+All this the Prince did.
+Then the bird—having taken the zasyek on her back, with the Prince sitting in the middle of it 
+— began to fly. 
+
+And after flying some distance she brought him to his journey’s end, took leave of him, and flew away back. 
+
+But he went to the house of a certain tailor, and engaged himself as his servant. 
+
+So much the worse for wear was he, so thoroughly had he altered in appearance, 
+that nobody would have suspected him of being a Prince.
+
+Having entered into the service of this master, the Prince began to ask what was going on in that country. 
+And his master replied: “Our two princes—for the third one has disappeared—have brought away brides 
+from the other world, and want to marry them, but those brides refuse. 
+For they insist on having all their wedding-clothes made for them first, exactly like those 
+which they used to have in the other world, and that without being measured for them. 
+
+The King has called all the workmen together, but not one of them will undertake to do it.”
+
+
+
+
+The Prince, having heard all this, said, “Go to the King, master, and tell him that you will provide everything 
+that’s in your line.”
+
+“However can I undertake to make clothes of that sort; I work for quite common folks,” says his master.
+
+“Go along, master! I will answer for everything,” says the Prince.
+
+So the tailor went. The King was delighted that at least one good workman had been found, 
+and gave him as much money as ever he wanted. 
+When the tailor had settled everything, he went home. And the Prince said to him:
+
+“Now then, pray to God, and lie down to sleep; to-morrow all will be ready.” And the tailor followed his lad’s 
+advice, and went to bed.
+
+Midnight sounded. 
+The Prince arose, went out of the city into the fields, 
+took out of his pocket the eggs which the maidens had given him, 
+and, as they had taught him, turned them into three palaces. 
+
+Into each of these he entered, took the maidens’ robes, went out again, 
+turned the palaces back into eggs, and went home. 
+And when he got there he hung up the robes on the wall, and lay down to sleep.
+
+
+
+
+Early in the morning his master awoke, and behold! 
+there hung such robes as he had never seen before, all shining with gold and silver and precious stones. 
+He was delighted, and he seized them and carried them off to the King. 
+When the princesses saw that the clothes were those which had been theirs in the other world, 
+they guessed that Prince Ivan was in this world, 
+so they exchanged glances with each other, but they held their peace. 
+And the master, having handed over the clothes, went home, but he no longer found his dear journeyman there. 
+
+
+
+
+For the Prince had gone to a shoemaker’s, and him too he sent to work for the King; 
+and in the same way he went the round of all the artificers, 
+and they all proffered him thanks, 
+inasmuch as through him they were enriched by the King.
+
+
+
+
+
+By the time the princely workman had gone the round of all the artificers, 
+the princesses had received what they had asked for; 
+
+all their clothes were just like what they had been in the other world. 
+
+Then they wept bitterly 
+because the Prince had not come, and it was impossible for them to hold out any longer, 
+it was necessary that they should be married. But when they were ready for the wedding, 
+the youngest bride said to the King:
+
+ “Allow me, my father, to go and give alms to the beggars.”
+
+He gave her leave, and she went and began bestowing alms upon them, and examining them closely. 
+
+
+
+And when she had come to one of them, and was going to give him some money,
+she caught sight of the ring which she had given to the Prince in the other world, 
+and her sisters’ rings too—for it really was he. 
+
+So she seized him by the hand, and brought him into the hall, and said to the King:
+
+“Here is he who brought us out of the other world. His brothers forbade us to say that he was alive, threatening 
+to slay us if we did.”
+</Filler>
+
+<PunishmentOfFalseHero>
+Then the King was wroth with those sons, and punished them as he thought best. </PunishmentOfFalseHero>
+<Wedding>
+And afterwards three weddings were celebrated.
+
+</Wedding>
+</Move>
+</Folktale>
+
+
+
+
+
+</Corpus>
