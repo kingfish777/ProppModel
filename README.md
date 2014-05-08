@@ -128,3 +128,13 @@ https://www.youtube.com/watch?v=A7FeQekjd9Q
 http://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R/Classification/SVM
 
 http://www.cs.cornell.edu/people/tj/publications/joachims_97b.pdf
+
+SVM in R: 
+http://www.jstatsoft.org/v15/i09/paper
+
+text CATEGORIZATION (classification into pre-determined number categories):
+http://www.cs.iastate.edu/~honavar/text-classification-SVM.pdf
+
+
+
+
