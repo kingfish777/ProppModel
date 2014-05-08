@@ -118,3 +118,13 @@ http://www.r-bloggers.com/automatic-cleaning-of-messy-text-data/
 
 Born to run lyrics analysis: 
 http://www.r-bloggers.com/automatic-cleaning-of-messy-text-data/
+
+
+http://www.rtexttools.com/
+
+minimizing size of weight-vector in SVM ... higher weights on the edges (despite centroid-like form) and SVM is all about the weights: 
+https://www.youtube.com/watch?v=A7FeQekjd9Q
+
+http://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R/Classification/SVM
+
+http://www.cs.cornell.edu/people/tj/publications/joachims_97b.pdf
