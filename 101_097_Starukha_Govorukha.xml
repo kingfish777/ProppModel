@@ -14,7 +14,9 @@
  the girl was not clever enough and not pretty enough; no matter where she went or sat or stood, 
  it was never right, 
  never as it should be! 
+ </Preparation>
  
+ <Villainy>
  And so the stepmother grumbled from dawn to dark like a gusla all wound up. 
  
  She wearied her husband to death, and everyone else too felt like running away from the house. 
@@ -24,16 +26,17 @@
  and his wife cried: 
  
  "Take your daughter too, take her anywhere you want, to the dark forest, only get her out of my way!"
+ </Villainy>
  
- 
+ <Departure>
  The old man took his daughter. 
  
  It was a long and difficult road, with woods and swamps all around; 
  
  where could he leave the maiden? He spied a little hut on chicken legs, 
  supported by a cake and covered with a pancake; and the little hut turned round and round. 
- 
- 
+ </Departure>
+ <ConnectiveIncident>
  He thought it would be best to leave his daughter in this little hut; 
  
  so he put her down from his cart, gave her some millet for gruel, whipped his horse, and vanished from sight. 
@@ -48,9 +51,9 @@
  to look at the dark would tire her eyes, 
  and there was no one to exchange a word with. 
  
+ </ConnectiveIncident>
  
- 
- 
+ <DonorFunctions>
  It was boring and fearsome. 
  
  She stood on the threshold, opened the door nearest the forest, and called out: 
@@ -85,12 +88,14 @@
  
  I am old, I am sickly, there is no one to tend me." 
  
- 
+ </DonorFunctions>
+ <Return>
  
  The husband did as she asked; 
  
  the stepdaughter returned. 
- 
+ </Return>
+ <AlienForms>
  When she opened her coffer and hung out her things on a rope that stretched from the house to the gate, 
  
  the old woman, who had opened her mouth to greet her in her customary abusive way, pursed up her lips, 
@@ -99,7 +104,7 @@
  
  "What is your pleasure, madam?" 
 
-</Preparation>
+</AlienForms>
 </Move>
  
 </Folktale>
