@@ -10,14 +10,13 @@
  Once there was a king who had an only son. 
  
  When the prince was small, his nurses and governesses sang lullabies to him. 
- 
- "Prince Ivan, when you grow up, you will find your bride," they would sing. 
  </Preparation>
  <Lack>
+ "Prince Ivan, when you grow up, you will find your bride," they would sing. 
+ 
  "Beyond thrice nine lands, in the thrice tenth kingdom, 
  Vasilisa Kirbitievna sits in a tower, and her marrow flows from bone to bone." 
- </Lack>
- <Departure>
+
  When the prince had passed his fifteenth year, he began to ask the king's leave to set out in search of his bride. 
  
  "Whither will you go?"
@@ -26,7 +25,8 @@
  "You are still too young." "No, father, when I was little, 
  my nurses and governesses sang lullabies to me and told me where my bride lives; 
  and now I wish to go and find her." 
- 
+  </Lack>
+ <Departure>
  The father gave the prince his blessing and sent word to all the kingdoms that his son, Prince Ivan,
  was setting out to find his bride. 
  </Departure>
