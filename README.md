@@ -136,5 +136,5 @@ text CATEGORIZATION (classification into pre-determined number categories):
 http://www.cs.iastate.edu/~honavar/text-classification-SVM.pdf
 
 
-
+https://books.google.com/books?id=yVN64AACjMAC&pg=PA173&lpg=PA173&dq=storm+knight+afanas%27ev&source=bl&ots=Jool8ZxLvh&sig=lajZVJQAKbvzs2wOtdt5PLpZBHk&hl=en&sa=X&ei=X8z0VIrtLJb_sAT5mYGwBQ&ved=0CDQQ6AEwBQ#v=onepage&q=storm%20knight%20afanas%27ev&f=false
 
